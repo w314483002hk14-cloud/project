@@ -1,0 +1,328 @@
+{
+  "university of antwerp belgium": [
+    51.1843856,
+    4.4199387
+  ],
+  "masaryk university czech republic": [
+    49.2099967,
+    16.5992487
+  ],
+  "czech technical university in prague czech republic": null,
+  "czech technical university in prague": null,
+  "布拉格捷克理工大學 czech republic": [
+    50.1029026,
+    14.3946353
+  ],
+  "palacky university olomouc czech republic": null,
+  "palacky university olomouc": null,
+  "帕拉茨基大學 czech republic": null,
+  "帕拉茨基大學": null,
+  "charles university czech republic": [
+    50.0888947,
+    14.4162757
+  ],
+  "university of southern denmark denmark": [
+    55.3678532,
+    10.4280534
+  ],
+  "university of southampton 英國": [
+    50.9617568,
+    -1.4239975
+  ],
+  "hanken school of economics finland": [
+    60.1708238,
+    24.9244713
+  ],
+  "university of jyvaskyla finland": [
+    62.2317777,
+    25.735787
+  ],
+  "jamk university of applied sciences finland": null,
+  "jamk university of applied sciences": [
+    62.2416151,
+    25.7592408
+  ],
+  "y schools france": [
+    48.2843475,
+    4.0795844
+  ],
+  "imt mines albi carmaux france": null,
+  "imt mines albi carmaux": [
+    43.9220902,
+    2.1780866
+  ],
+  "university of rennes 1 france": null,
+  "university of rennes 1": null,
+  "雷恩第一大學 france": null,
+  "雷恩第一大學": null,
+  "em normandie france": [
+    49.4894631,
+    0.1249885
+  ],
+  "ipag business school france": null,
+  "ipag business school": null,
+  "ipag高等商學院 france": null,
+  "ipag高等商學院": null,
+  "skema business school france": [
+    43.613156,
+    7.0563958
+  ],
+  "cy cergy paris university cy tech france": null,
+  "cy cergy paris university cy tech": null,
+  "institut mines telecom business school france": null,
+  "institut mines telecom business school": null,
+  "礦業學院 電信商學院 france": null,
+  "礦業學院 電信商學院": null,
+  "ecam lasalle france": null,
+  "ecam lasalle": null,
+  "工程師學校 france": null,
+  "工程師學校": [
+    25.0427054,
+    121.5236934
+  ],
+  "universite jean moulin lyon 3 france": null,
+  "universite jean moulin lyon 3": null,
+  "里昂第三大學 france": null,
+  "里昂第三大學": null,
+  "universite paris saclay france": [
+    48.7121501,
+    2.1735087
+  ],
+  "telecom paris france": [
+    48.7131108,
+    2.199685
+  ],
+  "ecole des mines de saint etienne france": null,
+  "ecole des mines de saint etienne": null,
+  "聖艾蒂安礦業學院 france": null,
+  "聖艾蒂安礦業學院": null,
+  "imt atlantique france": [
+    48.3578233,
+    -4.570741
+  ],
+  "institut polytechnique de paris france": [
+    48.7139028,
+    2.2141075
+  ],
+  "jean monnet university saint etienne france": [
+    45.4232215,
+    4.4259751
+  ],
+  "university of bordeaux france": null,
+  "university of bordeaux": null,
+  "波爾多大學 france": [
+    44.8612446,
+    -0.5568695
+  ],
+  "insa strasbourg france": [
+    48.5817042,
+    7.7646555
+  ],
+  "rennes school of business france": [
+    48.1274799,
+    -1.6903697
+  ],
+  "universite toulouse iii paul sabatier france": null,
+  "universite toulouse iii paul sabatier": null,
+  "圖盧茲第三大學 france": null,
+  "圖盧茲第三大學": null,
+  "kedge business school france": [
+    44.7964286,
+    -0.6008878
+  ],
+  "burgundy school of business france": [
+    45.730822,
+    4.873084
+  ],
+  "university paris est creteil france": null,
+  "university paris est creteil": null,
+  "巴黎第十二大學 france": null,
+  "巴黎第十二大學": null,
+  "university of technology of france": [
+    48.269078,
+    4.0664959
+  ],
+  "institut superieur d electronique de paris france": null,
+  "institut superieur d electronique de paris": null,
+  "巴黎高等電子學院 france": null,
+  "巴黎高等電子學院": null,
+  "supbiotech paris france": [
+    48.7974272,
+    2.3574614
+  ],
+  "insa toulouse france": [
+    43.5697775,
+    1.4683035
+  ],
+  "junia france": [
+    50.6339505,
+    3.048747
+  ],
+  "university of technology of troyes france": [
+    48.269078,
+    4.0664959
+  ],
+  "esme school of engineering france": null,
+  "esme school of engineering": null,
+  "機電特殊大學 france": null,
+  "機電特殊大學": [
+    31.931868,
+    117.3907688
+  ],
+  "friedrich alexander universitat erlangen nurnberg germany": [
+    49.458322,
+    11.08546
+  ],
+  "reutlingen university germany": [
+    48.4818765,
+    9.186824
+  ],
+  "saarland university germany": [
+    49.2542421,
+    7.0415117
+  ],
+  "university of stuttgart germany": [
+    48.7133801,
+    9.212073
+  ],
+  "university of augsburg germany": [
+    48.3554077,
+    10.9043357
+  ],
+  "rwth aachen university germany": [
+    50.7791732,
+    6.0689207
+  ],
+  "darmstadt university of applied sciences germany": null,
+  "darmstadt university of applied sciences": null,
+  "達姆施塔特應用技術大學 germany": null,
+  "達姆施塔特應用技術大學": null,
+  "srh university heidelberg germany": [
+    49.4128707,
+    8.6531575
+  ],
+  "technical university of munich germany": [
+    48.2654976,
+    11.6692249
+  ],
+  "heidelberg university germany": [
+    49.4186003,
+    8.6692402
+  ],
+  "university of brescia italy": null,
+  "university of brescia": [
+    43.0036024,
+    -81.2829929
+  ],
+  "politecnico di milano italy": null,
+  "politecnico di milano": [
+    45.4800101,
+    9.2282387
+  ],
+  "university of parma italy": null,
+  "university of parma": null,
+  "帕爾馬大學 italy": null,
+  "帕爾馬大學": [
+    48.8581857,
+    2.3266317
+  ],
+  "vilnius gediminas technical university lithuania": null,
+  "vilnius gediminas technical university": null,
+  "維爾紐斯格迪米尼茲科技大學 lithuania": null,
+  "維爾紐斯格迪米尼茲科技大學": null,
+  "universidad de alcala spain": [
+    40.4823336,
+    -3.3630678
+  ],
+  "universitat politecnica de catalunya spain": [
+    41.2214475,
+    1.7301449
+  ],
+  "the university of french polynesia french polynesia": null,
+  "the university of french polynesia": null,
+  "法屬玻里尼西亞大學 french polynesia": [
+    -17.5769934,
+    -149.6086618
+  ],
+  "polytechnique montreal canada": [
+    45.5045875,
+    -73.612996
+  ],
+  "universite du quebec a montreal canada": null,
+  "universite du quebec a montreal": null,
+  "魁北克大學 蒙特婁分校 canada": null,
+  "魁北克大學 蒙特婁分校": null,
+  "ecole de technologie superieure canada": null,
+  "ecole de technologie superieure": null,
+  "高等工程技術學院 canada": null,
+  "高等工程技術學院": [
+    22.6848271,
+    112.2220069
+  ],
+  "university of regina canada": [
+    50.4152275,
+    -104.589
+  ],
+  "university of new brunswick canada": [
+    45.9455202,
+    -66.6401861
+  ],
+  "the state university of new york at stony brook usa": null,
+  "the state university of new york at stony brook": null,
+  "紐約州立大學 石溪分校 usa": null,
+  "紐約州立大學 石溪分校": null,
+  "university of colorado boulder usa": [
+    40.0070061,
+    -105.2664423
+  ],
+  "juniata college usa": [
+    40.5012255,
+    -78.0151628
+  ],
+  "university of illinois at urbana champaign usa": null,
+  "university of illinois at urbana champaign": null,
+  "伊利諾大學 香檳分校 usa": null,
+  "伊利諾大學 香檳分校": null,
+  "metropolitan autonomous university mexico": null,
+  "metropolitan autonomous university": null,
+  "大都會自治大學 mexico": null,
+  "大都會自治大學": [
+    31.8261575,
+    117.1960562
+  ],
+  "palacky university olomouc, ": null,
+  ", ": null,
+  "": null,
+  "university of rennes 1, ": null,
+  "ipag business school, ": null,
+  "ipag, ": null,
+  "ipag": null,
+  "cy cergy paris university-cy tech, ": null,
+  "cy cergy paris university-cy tech": null,
+  "(eisti), ": null,
+  "(eisti)": null,
+  "institut mines-telecom business school (imt-bs), ": null,
+  "institut mines-telecom business school (imt-bs)": null,
+  "-, ": null,
+  "-": null,
+  "universite jean moulin lyon 3, ": null,
+  "ecole des mines de saint-etienne (emse), ": null,
+  "ecole des mines de saint-etienne (emse)": null,
+  "universite toulouse iii  paul sabatier (ups), ": null,
+  "universite toulouse iii  paul sabatier (ups)": null,
+  "university paris-est creteil (upec), ": null,
+  "university paris-est creteil (upec)": null,
+  "institut superieur delectronique de paris (isep), ": null,
+  "institut superieur delectronique de paris (isep)": null,
+  "darmstadt university of applied sciences (h_da), ": null,
+  "darmstadt university of applied sciences (h_da)": null,
+  "vilnius gediminas technical university (vgtu), ": null,
+  "vilnius gediminas technical university (vgtu)": null,
+  "universite du quebec a montreal (uqam), ": null,
+  "universite du quebec a montreal (uqam)": null,
+  " , ": null,
+  " ": null,
+  "the state university of new york at stony brook, ": null,
+  "univeristy of illinois at urbana-champaign, ": null,
+  "univeristy of illinois at urbana-champaign": null
+}

@@ -1,0 +1,7364 @@
+{
+  "synced_at": "2026-05-30T16:10:17.770Z",
+  "source": "https://www.topuniversities.com/world-university-rankings/2026",
+  "schools": {
+    "0": {
+      "world_rank": "465",
+      "world_rank_display": "#465",
+      "subjects": [
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 98
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 98
+        }
+      ],
+      "qs_title": "Shanghai University",
+      "qs_path": "/universities/shanghai-university"
+    },
+    "1": {
+      "world_rank": "355",
+      "world_rank_display": "#355",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 48
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 77
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 24
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 42
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Dentistry",
+          "rank": 24
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 42
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 48
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 77
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 77
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 84
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 95
+        },
+        {
+          "subject": "Nursing",
+          "rank": 112
+        }
+      ],
+      "qs_title": "Sichuan University",
+      "qs_path": "/universities/sichuan-university"
+    },
+    "2": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Fuzhou University",
+      "qs_path": "/universities/fuzhou-university"
+    },
+    "3": {
+      "world_rank": "137",
+      "world_rank_display": "#137",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 108
+        },
+        {
+          "subject": "Medicine",
+          "rank": 101
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 79
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 101
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Library & Information Management",
+          "rank": 79
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 101
+        },
+        {
+          "subject": "Medicine",
+          "rank": 101
+        },
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 108
+        }
+      ],
+      "qs_title": "University of Science and Technology of China",
+      "qs_path": "/universities/university-science-technology-china"
+    },
+    "4": {
+      "world_rank": "791-800",
+      "world_rank_display": "#791-800",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Lanzhou University",
+      "qs_path": "/universities/lanzhou-university"
+    },
+    "5": {
+      "world_rank": "851-900",
+      "world_rank_display": "#851-900",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Beijing University of Posts and Telecommunications",
+      "qs_path": "/universities/beijing-university-posts-telecommunications"
+    },
+    "6": {
+      "world_rank": "14",
+      "world_rank_display": "#14",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 3
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 4
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 30
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 32
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Dentistry",
+          "rank": 2
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 3
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 3
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 3
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 3
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 4
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 4
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 4
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 4
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 4
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 5
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 18
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 21
+        },
+        {
+          "subject": "Nursing",
+          "rank": 22
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 22
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 23
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 23
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 24
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 25
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 25
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 25
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 30
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 30
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 30
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 32
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 32
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 33
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 33
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 37
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 38
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 38
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 39
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 42
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 44
+        },
+        {
+          "subject": "Medicine",
+          "rank": 44
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 47
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 47
+        },
+        {
+          "subject": "History",
+          "rank": 48
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 48
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 57
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 65
+        },
+        {
+          "subject": "Marketing",
+          "rank": 69
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 71
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 89
+        },
+        {
+          "subject": "Psychology",
+          "rank": 92
+        },
+        {
+          "subject": "Politics",
+          "rank": 97
+        },
+        {
+          "subject": "Sociology",
+          "rank": 97
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 109
+        }
+      ],
+      "qs_title": "Peking University",
+      "qs_path": "/universities/peking-university"
+    },
+    "7": {
+      "world_rank": "433",
+      "world_rank_display": "#433",
+      "subjects": [
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 55
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 59
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 64
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 55
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 59
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 64
+        },
+        {
+          "subject": "History",
+          "rank": 65
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 67
+        },
+        {
+          "subject": "Psychology",
+          "rank": 70
+        },
+        {
+          "subject": "Politics",
+          "rank": 71
+        },
+        {
+          "subject": "Sociology",
+          "rank": 72
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 73
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 79
+        }
+      ],
+      "qs_title": "East China Normal University",
+      "qs_path": "/universities/east-china-normal-university"
+    },
+    "8": {
+      "world_rank": "482",
+      "world_rank_display": "#482",
+      "subjects": [
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 84
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 79
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 86
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 79
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 84
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 86
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 86
+        }
+      ],
+      "qs_title": "Dalian University of Technology",
+      "qs_path": "/universities/dalian-university-technology"
+    },
+    "9": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Central China Normal University",
+      "qs_path": "/universities/central-china-normal-university"
+    },
+    "10": {
+      "world_rank": "341",
+      "world_rank_display": "#341",
+      "subjects": [
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 61
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 61
+        }
+      ],
+      "qs_title": "Xiamen University",
+      "qs_path": "/universities/xiamen-university"
+    },
+    "11": {
+      "world_rank": "50",
+      "world_rank_display": "#50",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 2
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 2
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 63
+        },
+        {
+          "subject": "Medicine",
+          "rank": 37
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Development Studies",
+          "rank": 1
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 2
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 2
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 2
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 2
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 2
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 2
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 2
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 2
+        },
+        {
+          "subject": "Nursing",
+          "rank": 16
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 16
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 21
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 27
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 28
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 30
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 31
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 37
+        },
+        {
+          "subject": "Medicine",
+          "rank": 37
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 37
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 38
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 39
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 40
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 41
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 42
+        },
+        {
+          "subject": "Sociology",
+          "rank": 43
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 43
+        },
+        {
+          "subject": "Politics",
+          "rank": 44
+        },
+        {
+          "subject": "Psychology",
+          "rank": 44
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 44
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 45
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 49
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 51
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 56
+        },
+        {
+          "subject": "Marketing",
+          "rank": 60
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 61
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 63
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 63
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 64
+        },
+        {
+          "subject": "History",
+          "rank": 67
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 67
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 69
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 69
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 75
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 76
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 82
+        }
+      ],
+      "qs_title": "Fudan University",
+      "qs_path": "/universities/fudan-university"
+    },
+    "12": {
+      "world_rank": "47",
+      "world_rank_display": "#47",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 48
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 67
+        },
+        {
+          "subject": "Medicine",
+          "rank": 47
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 23
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 23
+        },
+        {
+          "subject": "Nursing",
+          "rank": 24
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 30
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 31
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 39
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 41
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 43
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 46
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 46
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 46
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 47
+        },
+        {
+          "subject": "Medicine",
+          "rank": 47
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 48
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 48
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 48
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 50
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 52
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 54
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 63
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 67
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 67
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 67
+        },
+        {
+          "subject": "Marketing",
+          "rank": 72
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 73
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 76
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 77
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 94
+        },
+        {
+          "subject": "Psychology",
+          "rank": 100
+        },
+        {
+          "subject": "Politics",
+          "rank": 109
+        }
+      ],
+      "qs_title": "Shanghai Jiao Tong University",
+      "qs_path": "/universities/shanghai-jiao-tong-university"
+    },
+    "13": {
+      "world_rank": "275",
+      "world_rank_display": "#275",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 97
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 89
+        },
+        {
+          "subject": "Nursing",
+          "rank": 92
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 89
+        },
+        {
+          "subject": "Nursing",
+          "rank": 92
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 97
+        }
+      ],
+      "qs_title": "Huazhong University of Science and Technology",
+      "qs_path": "/universities/huazhong-university-science-technology"
+    },
+    "14": {
+      "world_rank": "103",
+      "world_rank_display": "#103",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 14
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 23
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 16
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 17
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 14
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 16
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 17
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 17
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 22
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 23
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 23
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 26
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 36
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 65
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 68
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 68
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 83
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 85
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 87
+        },
+        {
+          "subject": "History",
+          "rank": 87
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 87
+        },
+        {
+          "subject": "Psychology",
+          "rank": 88
+        },
+        {
+          "subject": "Politics",
+          "rank": 93
+        },
+        {
+          "subject": "Sociology",
+          "rank": 94
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 103
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 105
+        }
+      ],
+      "qs_title": "Nanjing University",
+      "qs_path": "/universities/nanjing-university"
+    },
+    "15": {
+      "world_rank": "305",
+      "world_rank_display": "#305",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Xi’an Jiaotong University",
+      "qs_path": "/universities/xian-jiaotong-university"
+    },
+    "16": {
+      "world_rank": "901-950",
+      "world_rank_display": "#901-950",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 65
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 65
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 65
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 65
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 65
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 65
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 98
+        }
+      ],
+      "qs_title": "Beijing Jiaotong University",
+      "qs_path": "/universities/beijing-jiaotong-university"
+    },
+    "17": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Chang'an University",
+      "qs_path": "/universities/changan-university"
+    },
+    "18": {
+      "world_rank": "17",
+      "world_rank_display": "#17",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 13
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 44
+        },
+        {
+          "subject": "Medicine",
+          "rank": 31
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 9
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "English Language and Literature",
+          "rank": 9
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 13
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 13
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 13
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 13
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 18
+        },
+        {
+          "subject": "History of Art",
+          "rank": 25
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 25
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 26
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 28
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 30
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 30
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 31
+        },
+        {
+          "subject": "Medicine",
+          "rank": 31
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 32
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 34
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 35
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 37
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 44
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 44
+        },
+        {
+          "subject": "Marketing",
+          "rank": 49
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 49
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 49
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 54
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 55
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 57
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 59
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 62
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 77
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 89
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 92
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 94
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 109
+        },
+        {
+          "subject": "History",
+          "rank": 110
+        },
+        {
+          "subject": "Psychology",
+          "rank": 119
+        }
+      ],
+      "qs_title": "Tsinghua University",
+      "qs_path": "/universities/tsinghua-university"
+    },
+    "19": {
+      "world_rank": "392",
+      "world_rank_display": "#392",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 108
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 98
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 121
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 98
+        },
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 108
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 121
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 125
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 128
+        }
+      ],
+      "qs_title": "South China University of Technology",
+      "qs_path": "/universities/south-china-university-technology"
+    },
+    "20": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "China Academy of Art",
+      "qs_path": "/universities/china-academy-art"
+    },
+    "21": {
+      "world_rank": "177",
+      "world_rank_display": "#177",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 10
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 10
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 10
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 10
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 10
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 10
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 10
+        },
+        {
+          "subject": "History of Art",
+          "rank": 24
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 87
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 88
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 90
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 96
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 109
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 115
+        }
+      ],
+      "qs_title": "Tongji University",
+      "qs_path": "/universities/tongji-university"
+    },
+    "22": {
+      "world_rank": "392",
+      "world_rank_display": "#392",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Southeast University",
+      "qs_path": "/universities/southeast-university"
+    },
+    "23": {
+      "world_rank": "486",
+      "world_rank_display": "#486",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Electronic Science and Technology of China",
+      "qs_path": "/universities/university-electronic-science-technology-china"
+    },
+    "24": {
+      "world_rank": "504",
+      "world_rank_display": "#504",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 76
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 71
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 76
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 71
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 76
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 76
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 76
+        }
+      ],
+      "qs_title": "Chongqing University",
+      "qs_path": "/universities/chongqing-university"
+    },
+    "25": {
+      "world_rank": "355",
+      "world_rank_display": "#355",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 44
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 69
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 69
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 44
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 69
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 69
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 70
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 73
+        }
+      ],
+      "qs_title": "Nankai University",
+      "qs_path": "/universities/nankai-university"
+    },
+    "26": {
+      "world_rank": "196",
+      "world_rank_display": "#196",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 24
+        },
+        {
+          "subject": "History of Art",
+          "rank": 29
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 45
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 24
+        },
+        {
+          "subject": "History of Art",
+          "rank": 29
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 45
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 47
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 48
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 50
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 57
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 71
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 82
+        }
+      ],
+      "qs_title": "Waseda University",
+      "qs_path": "/universities/waseda-university"
+    },
+    "27": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Japan Advanced Institute of Science and Technology",
+      "qs_path": "/universities/japan-advanced-institute-science-technology"
+    },
+    "28": {
+      "world_rank": "1001-1200",
+      "world_rank_display": "#1001-1200",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Kyushu Institute of Technology",
+      "qs_path": "/universities/kyushu-institute-technology"
+    },
+    "29": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "International College of Liberal Arts at Yamanashi Gakuin University",
+      "qs_path": "/universities/international-college-liberal-arts-yamanashi-gakuin-university"
+    },
+    "30": {
+      "world_rank": "164",
+      "world_rank_display": "#164",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 43
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 68
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 36
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 50
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Development Studies",
+          "rank": 36
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 43
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 50
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 53
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 68
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 68
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 72
+        }
+      ],
+      "qs_title": "Nagoya University",
+      "qs_path": "/universities/nagoya-university"
+    },
+    "31": {
+      "world_rank": "1201-1400",
+      "world_rank_display": "#1201-1400",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Gunma University",
+      "qs_path": "/universities/gunma-university"
+    },
+    "32": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 20
+        },
+        {
+          "subject": "Medicine",
+          "rank": 84
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 20
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 20
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 20
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 20
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 20
+        },
+        {
+          "subject": "Nursing",
+          "rank": 44
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 76
+        },
+        {
+          "subject": "Medicine",
+          "rank": 84
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 87
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 94
+        }
+      ],
+      "qs_title": "Institute of Science Tokyo",
+      "qs_path": "/universities/institute-science-tokyo"
+    },
+    "33": {
+      "world_rank": "57",
+      "world_rank_display": "#57",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 10
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 17
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 42
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 10
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 10
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 10
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 11
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 12
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 13
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 13
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 13
+        },
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 14
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 14
+        },
+        {
+          "subject": "History of Art",
+          "rank": 15
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 16
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 17
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 17
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 19
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 21
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 21
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 21
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 22
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 22
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 22
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 24
+        },
+        {
+          "subject": "Politics",
+          "rank": 26
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 26
+        },
+        {
+          "subject": "Sociology",
+          "rank": 26
+        },
+        {
+          "subject": "Psychology",
+          "rank": 27
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 27
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 36
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 37
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 40
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 41
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 42
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 43
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 44
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 45
+        },
+        {
+          "subject": "History",
+          "rank": 46
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 46
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 46
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 56
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 73
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 75
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 78
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 79
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 82
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 84
+        },
+        {
+          "subject": "Medicine",
+          "rank": 86
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 90
+        }
+      ],
+      "qs_title": "Kyoto University",
+      "qs_path": "/universities/kyoto-university"
+    },
+    "34": {
+      "world_rank": "1401+",
+      "world_rank_display": "#1401+",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Nara Institute of Science and Technology ",
+      "qs_path": "/universities/nara-institute-science-technology"
+    },
+    "35": {
+      "world_rank": "721-730",
+      "world_rank_display": "#721-730",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Osaka Metropolitan University",
+      "qs_path": "/universities/osaka-metropolitan-university"
+    },
+    "36": {
+      "world_rank": "1201-1400",
+      "world_rank_display": "#1201-1400",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Kwansei Gakuin University",
+      "qs_path": "/universities/kwansei-gakuin-university"
+    },
+    "37": {
+      "world_rank": "164",
+      "world_rank_display": "#164",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 25
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 43
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 33
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 36
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 25
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 33
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 36
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 42
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 43
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 43
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 58
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 61
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 75
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 78
+        },
+        {
+          "subject": "History",
+          "rank": 81
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 85
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 92
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 93
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 130
+        }
+      ],
+      "qs_title": "Kyushu University",
+      "qs_path": "/universities/kyushu-university"
+    },
+    "38": {
+      "world_rank": "91",
+      "world_rank_display": "#91",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 55
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 84
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 28
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 48
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Dentistry",
+          "rank": 28
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 48
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 55
+        },
+        {
+          "subject": "Nursing",
+          "rank": 64
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 64
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 84
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 84
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 85
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 91
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 93
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 94
+        }
+      ],
+      "qs_title": "The University of Osaka",
+      "qs_path": "/universities/university-osaka"
+    },
+    "39": {
+      "world_rank": "701-710",
+      "world_rank_display": "#701-710",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 108
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 98
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 128
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 98
+        },
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 108
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 128
+        },
+        {
+          "subject": "History",
+          "rank": 133
+        }
+      ],
+      "qs_title": "Chiba University",
+      "qs_path": "/universities/chiba-university"
+    },
+    "40": {
+      "world_rank": "109",
+      "world_rank_display": "#109",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 26
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 44
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 15
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 28
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Dentistry",
+          "rank": 15
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 26
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 28
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 34
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 43
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 44
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 44
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 86
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 89
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 107
+        },
+        {
+          "subject": "History",
+          "rank": 108
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 118
+        }
+      ],
+      "qs_title": "Tohoku University",
+      "qs_path": "/universities/tohoku-university"
+    },
+    "41": {
+      "world_rank": "350",
+      "world_rank_display": "#350",
+      "subjects": [
+        {
+          "subject": "Library & Information Management",
+          "rank": 65
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Library & Information Management",
+          "rank": 65
+        }
+      ],
+      "qs_title": "University of Tsukuba",
+      "qs_path": "/universities/university-tsukuba"
+    },
+    "42": {
+      "world_rank": "36",
+      "world_rank_display": "#36",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 11
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 24
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 50
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 27
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Library & Information Management",
+          "rank": 7
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 7
+        },
+        {
+          "subject": "History of Art",
+          "rank": 8
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 11
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 11
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 11
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 11
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 11
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 11
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 11
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 14
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 15
+        },
+        {
+          "subject": "History",
+          "rank": 15
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 15
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 15
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 15
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 16
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 17
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 18
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 18
+        },
+        {
+          "subject": "Veterinary Science",
+          "rank": 19
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 23
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 24
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 24
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 25
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 27
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 27
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 28
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 28
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 29
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 32
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 35
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 36
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 36
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 40
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 41
+        },
+        {
+          "subject": "Nursing",
+          "rank": 43
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 44
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 46
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 50
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 50
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 71
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 71
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 71
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 74
+        },
+        {
+          "subject": "Medicine",
+          "rank": 79
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 82
+        },
+        {
+          "subject": "Psychology",
+          "rank": 115
+        }
+      ],
+      "qs_title": "The University of Tokyo",
+      "qs_path": "/universities/university-tokyo"
+    },
+    "43": {
+      "world_rank": "851-900",
+      "world_rank_display": "#851-900",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Kanazawa University",
+      "qs_path": "/universities/kanazawa-university"
+    },
+    "44": {
+      "world_rank": "1001-1200",
+      "world_rank_display": "#1001-1200",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 108
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 108
+        }
+      ],
+      "qs_title": "Kyoto Institute of Technology",
+      "qs_path": "/universities/kyoto-institute-technology"
+    },
+    "45": {
+      "world_rank": "170",
+      "world_rank_display": "#170",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 96
+        },
+        {
+          "subject": "Veterinary Science",
+          "rank": 13
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 71
+        },
+        {
+          "subject": "Politics",
+          "rank": 80
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Veterinary Science",
+          "rank": 13
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 71
+        },
+        {
+          "subject": "Politics",
+          "rank": 80
+        },
+        {
+          "subject": "Sociology",
+          "rank": 81
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 88
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 89
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 96
+        }
+      ],
+      "qs_title": "Hokkaido University",
+      "qs_path": "/universities/hokkaido-university"
+    },
+    "46": {
+      "world_rank": "1201-1400",
+      "world_rank_display": "#1201-1400",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Kindai University (Kinki University)",
+      "qs_path": "/universities/kindai-university-kinki-university"
+    },
+    "47": {
+      "world_rank": "1201-1400",
+      "world_rank_display": "#1201-1400",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Saitama University",
+      "qs_path": "/universities/saitama-university"
+    },
+    "48": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "The University of Electro-Communications (UEC-Tokyo)",
+      "qs_path": "/universities/university-electro-communications-uec-tokyo"
+    },
+    "49": {
+      "world_rank": "901-950",
+      "world_rank_display": "#901-950",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Nagasaki University",
+      "qs_path": "/universities/nagasaki-university"
+    },
+    "50": {
+      "world_rank": "951-1000",
+      "world_rank_display": "#951-1000",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Kumamoto University",
+      "qs_path": "/universities/kumamoto-university"
+    },
+    "51": {
+      "world_rank": "479",
+      "world_rank_display": "#479",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 48
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 78
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 78
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 48
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 78
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 78
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 78
+        },
+        {
+          "subject": "Nursing",
+          "rank": 80
+        }
+      ],
+      "qs_title": "Chung-Ang University (CAU)",
+      "qs_path": "/universities/chung-ang-university-cau"
+    },
+    "52": {
+      "world_rank": "159",
+      "world_rank_display": "#159",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 53
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 20
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 51
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 20
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 51
+        },
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 53
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 66
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 67
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 68
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 71
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 79
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 82
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 84
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 85
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 93
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 106
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 114
+        }
+      ],
+      "qs_title": "Hanyang University",
+      "qs_path": "/universities/hanyang-university"
+    },
+    "53": {
+      "world_rank": "851-900",
+      "world_rank_display": "#851-900",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Chungnam National University",
+      "qs_path": "/universities/chungnam-national-university"
+    },
+    "54": {
+      "world_rank": "126",
+      "world_rank_display": "#126",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 50
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 79
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 39
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 44
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 39
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 44
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 44
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 50
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 51
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 59
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 66
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 76
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 79
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 79
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 86
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 88
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 99
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 101
+        },
+        {
+          "subject": "Psychology",
+          "rank": 103
+        },
+        {
+          "subject": "History",
+          "rank": 103
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 106
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 107
+        },
+        {
+          "subject": "Sociology",
+          "rank": 110
+        },
+        {
+          "subject": "Politics",
+          "rank": 112
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 124
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 128
+        }
+      ],
+      "qs_title": "Sungkyunkwan University (SKKU)",
+      "qs_path": "/universities/sungkyunkwan-university-skku"
+    },
+    "55": {
+      "world_rank": "38",
+      "world_rank_display": "#38",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 38
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 45
+        },
+        {
+          "subject": "Medicine",
+          "rank": 46
+        },
+        {
+          "subject": "Music",
+          "rank": 10
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Music",
+          "rank": 10
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 11
+        },
+        {
+          "subject": "History of Art",
+          "rank": 22
+        },
+        {
+          "subject": "Nursing",
+          "rank": 23
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 24
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 26
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 29
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 31
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 31
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 32
+        },
+        {
+          "subject": "Veterinary Science",
+          "rank": 35
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 35
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 36
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 37
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 38
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 38
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 38
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 40
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 45
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 45
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 45
+        },
+        {
+          "subject": "Medicine",
+          "rank": 46
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 49
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 49
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 50
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 52
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 54
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 56
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 61
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 70
+        },
+        {
+          "subject": "Marketing",
+          "rank": 71
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 72
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 75
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 76
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 93
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 95
+        },
+        {
+          "subject": "History",
+          "rank": 99
+        }
+      ],
+      "qs_title": "Seoul National University",
+      "qs_path": "/universities/seoul-national-university"
+    },
+    "56": {
+      "world_rank": "558",
+      "world_rank_display": "#558",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Sogang University",
+      "qs_path": "/universities/sogang-university"
+    },
+    "57": {
+      "world_rank": "654",
+      "world_rank_display": "#654",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Konkuk University",
+      "qs_path": "/universities/konkuk-university"
+    },
+    "58": {
+      "world_rank": "851-900",
+      "world_rank_display": "#851-900",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Chonnam National University",
+      "qs_path": "/universities/chonnam-national-university"
+    },
+    "59": {
+      "world_rank": "102",
+      "world_rank_display": "#102",
+      "subjects": [
+        {
+          "subject": "Medicine",
+          "rank": 102
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 102
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 118
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Materials Sciences",
+          "rank": 102
+        },
+        {
+          "subject": "Medicine",
+          "rank": 102
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 118
+        }
+      ],
+      "qs_title": "Pohang University of Science And Technology (POSTECH)",
+      "qs_path": "/universities/pohang-university-science-technology-postech"
+    },
+    "60": {
+      "world_rank": "504",
+      "world_rank_display": "#504",
+      "subjects": [
+        {
+          "subject": "Performing Arts",
+          "rank": 64
+        },
+        {
+          "subject": "Nursing",
+          "rank": 87
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Performing Arts",
+          "rank": 64
+        },
+        {
+          "subject": "Nursing",
+          "rank": 87
+        }
+      ],
+      "qs_title": "Ewha Womans University",
+      "qs_path": "/universities/ewha-womans-university"
+    },
+    "61": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "62": {
+      "world_rank": "50",
+      "world_rank_display": "#50",
+      "subjects": [
+        {
+          "subject": "Engineering & Technology",
+          "rank": 60
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 59
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 61
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 22
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 22
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 36
+        },
+        {
+          "subject": "Nursing",
+          "rank": 41
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 42
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 43
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 48
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 50
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 52
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 54
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 59
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 59
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 60
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 61
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 63
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 64
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 65
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 65
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 69
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 72
+        },
+        {
+          "subject": "Medicine",
+          "rank": 73
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 74
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 74
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 75
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 83
+        },
+        {
+          "subject": "Marketing",
+          "rank": 98
+        }
+      ],
+      "qs_title": "Yonsei University",
+      "qs_path": "/universities/yonsei-university"
+    },
+    "63": {
+      "world_rank": "126",
+      "world_rank_display": "#126",
+      "subjects": [
+        {
+          "subject": "English Language and Literature",
+          "rank": 98
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 122
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "English Language and Literature",
+          "rank": 98
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 122
+        }
+      ],
+      "qs_title": "Universiti Kebangsaan Malaysia (UKM)",
+      "qs_path": "/universities/universiti-kebangsaan-malaysia-ukm"
+    },
+    "64": {
+      "world_rank": "58",
+      "world_rank_display": "#58",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 11
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 68
+        },
+        {
+          "subject": "Medicine",
+          "rank": 61
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 24
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 11
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 24
+        },
+        {
+          "subject": "Nursing",
+          "rank": 32
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 43
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 47
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 47
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 53
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 53
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 54
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 54
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 55
+        },
+        {
+          "subject": "Medicine",
+          "rank": 61
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 62
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 68
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 68
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 77
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 79
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 81
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 82
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 82
+        },
+        {
+          "subject": "Marketing",
+          "rank": 86
+        }
+      ],
+      "qs_title": "Universiti Malaya (UM)",
+      "qs_path": "/universities/universiti-malaya-um"
+    },
+    "65": {
+      "world_rank": "188",
+      "world_rank_display": "#188",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 30
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 64
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 103
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 30
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 64
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 103
+        }
+      ],
+      "qs_title": "Universiti Teknologi Malaysia ",
+      "qs_path": "/universities/universiti-teknologi-malaysia"
+    },
+    "66": {
+      "world_rank": "801-850",
+      "world_rank_display": "#801-850",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Universiti Tunku Abdul Rahman (UTAR)",
+      "qs_path": "/universities/universiti-tunku-abdul-rahman-utar"
+    },
+    "67": {
+      "world_rank": "429",
+      "world_rank_display": "#429",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Singapore University of Technology and Design",
+      "qs_path": "/universities/singapore-university-technology-design"
+    },
+    "68": {
+      "world_rank": "8",
+      "world_rank_display": "#8",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 9
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 13
+        },
+        {
+          "subject": "Medicine",
+          "rank": 7
+        },
+        {
+          "subject": "Nursing",
+          "rank": 2
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Nursing",
+          "rank": 2
+        },
+        {
+          "subject": "History of Art",
+          "rank": 3
+        },
+        {
+          "subject": "Music",
+          "rank": 3
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 3
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 4
+        },
+        {
+          "subject": "History",
+          "rank": 4
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 4
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 6
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 6
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 7
+        },
+        {
+          "subject": "Medicine",
+          "rank": 7
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 9
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 9
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 9
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 9
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 9
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 9
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 9
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 11
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 11
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 11
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 12
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 12
+        },
+        {
+          "subject": "Marketing",
+          "rank": 13
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 13
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 13
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 13
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 21
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 26
+        },
+        {
+          "subject": "Politics",
+          "rank": 29
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 29
+        },
+        {
+          "subject": "Sociology",
+          "rank": 29
+        },
+        {
+          "subject": "Psychology",
+          "rank": 30
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 30
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 31
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 33
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 33
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 34
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 34
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 56
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 64
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 76
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 86
+        }
+      ],
+      "qs_title": "National University of Singapore (NUS)",
+      "qs_path": "/universities/national-university-singapore-nus"
+    },
+    "69": {
+      "world_rank": "511",
+      "world_rank_display": "#511",
+      "subjects": [
+        {
+          "subject": "Business & Management Studies",
+          "rank": 33
+        },
+        {
+          "subject": "Marketing",
+          "rank": 28
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 33
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Marketing",
+          "rank": 28
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 33
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 33
+        }
+      ],
+      "qs_title": "Singapore Management University",
+      "qs_path": "/universities/singapore-management-university"
+    },
+    "70": {
+      "world_rank": "12",
+      "world_rank_display": "#12",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 16
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 20
+        },
+        {
+          "subject": "Medicine",
+          "rank": 17
+        },
+        {
+          "subject": "Music",
+          "rank": 6
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Music",
+          "rank": 6
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 10
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 13
+        },
+        {
+          "subject": "History of Art",
+          "rank": 14
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 15
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 15
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 15
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 15
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 15
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 16
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 16
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 16
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 16
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 16
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 16
+        },
+        {
+          "subject": "Medicine",
+          "rank": 17
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 17
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 18
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 18
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 20
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 20
+        },
+        {
+          "subject": "Marketing",
+          "rank": 26
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 26
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 31
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 32
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 34
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 35
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 37
+        },
+        {
+          "subject": "Sociology",
+          "rank": 38
+        },
+        {
+          "subject": "Politics",
+          "rank": 39
+        },
+        {
+          "subject": "Psychology",
+          "rank": 39
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 40
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 40
+        },
+        {
+          "subject": "History",
+          "rank": 41
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 41
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 62
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 74
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 85
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 85
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 90
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 90
+        }
+      ],
+      "qs_title": "Nanyang Technological University, Singapore (NTU Singapore)",
+      "qs_path": "/universities/nanyang-technological-university-singapore-ntu-singapore"
+    },
+    "71": {
+      "world_rank": "951-1000",
+      "world_rank_display": "#951-1000",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "King Mongkut's University of Technology Thonburi",
+      "qs_path": "/universities/king-mongkuts-university-technology-thonburi"
+    },
+    "72": {
+      "world_rank": "751-760",
+      "world_rank_display": "#751-760",
+      "subjects": [
+        {
+          "subject": "Veterinary Science",
+          "rank": 81
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Veterinary Science",
+          "rank": 81
+        }
+      ],
+      "qs_title": "Kasetsart University",
+      "qs_path": "/universities/kasetsart-university"
+    },
+    "73": {
+      "world_rank": "571",
+      "world_rank_display": "#571",
+      "subjects": [
+        {
+          "subject": "Nursing",
+          "rank": 78
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Nursing",
+          "rank": 78
+        }
+      ],
+      "qs_title": "Chiang Mai University",
+      "qs_path": "/universities/chiang-mai-university"
+    },
+    "74": {
+      "world_rank": "551",
+      "world_rank_display": "#551",
+      "subjects": [
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 82
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 82
+        }
+      ],
+      "qs_title": "Thammasat University",
+      "qs_path": "/universities/thammasat-university"
+    },
+    "75": {
+      "world_rank": "211",
+      "world_rank_display": "#211",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 30
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 12
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 42
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 12
+        },
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 30
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 42
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 43
+        },
+        {
+          "subject": "Veterinary Science",
+          "rank": 44
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 55
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 57
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 60
+        },
+        {
+          "subject": "History",
+          "rank": 60
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 62
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 64
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 67
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 72
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 74
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 77
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 77
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 77
+        },
+        {
+          "subject": "Nursing",
+          "rank": 79
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 79
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 84
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 86
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 96
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 97
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 106
+        }
+      ],
+      "qs_title": "Chulalongkorn University",
+      "qs_path": "/universities/chulalongkorn-university"
+    },
+    "76": {
+      "world_rank": "711-720",
+      "world_rank_display": "#711-720",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Ton Duc Thang University",
+      "qs_path": "/universities/ton-duc-thang-university"
+    },
+    "77": {
+      "world_rank": "509",
+      "world_rank_display": "#509",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Institut Teknologi Sepuluh Nopember (ITS Surabaya)",
+      "qs_path": "/universities/institut-teknologi-sepuluh-nopember-its-surabaya"
+    },
+    "78": {
+      "world_rank": "189",
+      "world_rank_display": "#189",
+      "subjects": [
+        {
+          "subject": "Library & Information Management",
+          "rank": 52
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 77
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 99
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Library & Information Management",
+          "rank": 52
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 77
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 99
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 104
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 119
+        }
+      ],
+      "qs_title": "Universitas Indonesia",
+      "qs_path": "/universities/universitas-indonesia"
+    },
+    "79": {
+      "world_rank": "255",
+      "world_rank_display": "#255",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 57
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 97
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 57
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 97
+        }
+      ],
+      "qs_title": "Institut Teknologi Bandung (ITB)",
+      "qs_path": "/universities/institut-teknologi-bandung-itb"
+    },
+    "80": {
+      "world_rank": "180",
+      "world_rank_display": "#180",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 16
+        },
+        {
+          "subject": "Medicine",
+          "rank": 95
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 30
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 46
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 16
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 30
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 46
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 47
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 47
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 47
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 87
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 91
+        },
+        {
+          "subject": "Medicine",
+          "rank": 95
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 106
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 119
+        }
+      ],
+      "qs_title": "Indian Institute of Technology Madras (IITM)",
+      "qs_path": "/universities/indian-institute-technology-madras-iitm"
+    },
+    "81": {
+      "world_rank": "129",
+      "world_rank_display": "#129",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 46
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 45
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 46
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 45
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 46
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 46
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 46
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 89
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 102
+        }
+      ],
+      "qs_title": "Indian Institute of Technology Bombay (IITB)",
+      "qs_path": "/universities/indian-institute-technology-bombay-iitb"
+    },
+    "82": {
+      "world_rank": "691-700",
+      "world_rank_display": "#691-700",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Indian Institute of Technology Hyderabad (IITH)",
+      "qs_path": "/universities/indian-institute-technology-hyderabad-iith"
+    },
+    "83": {
+      "world_rank": "1001-1200",
+      "world_rank_display": "#1001-1200",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "O.P. Jindal Global University (JGU)",
+      "qs_path": "/universities/op-jindal-global-university-jgu"
+    },
+    "84": {
+      "world_rank": "502",
+      "world_rank_display": "#502",
+      "subjects": [
+        {
+          "subject": "Chemistry",
+          "rank": 86
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Chemistry",
+          "rank": 86
+        }
+      ],
+      "qs_title": "Bilkent University",
+      "qs_path": "/universities/bilkent-university"
+    },
+    "85": {
+      "world_rank": "404",
+      "world_rank_display": "#404",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Sabanci University",
+      "qs_path": "/universities/sabanci-university"
+    },
+    "86": {
+      "world_rank": "323",
+      "world_rank_display": "#323",
+      "subjects": [
+        {
+          "subject": "Archaeology",
+          "rank": 81
+        },
+        {
+          "subject": "Nursing",
+          "rank": 96
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 127
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Archaeology",
+          "rank": 81
+        },
+        {
+          "subject": "Nursing",
+          "rank": 96
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 127
+        }
+      ],
+      "qs_title": "Koç University",
+      "qs_path": "/universities/koc-university"
+    },
+    "87": {
+      "world_rank": "244",
+      "world_rank_display": "#244",
+      "subjects": [
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 32
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 22
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 23
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 26
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 22
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 23
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 26
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 30
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 31
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 32
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 32
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 48
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 49
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 50
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 68
+        },
+        {
+          "subject": "History",
+          "rank": 74
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 80
+        },
+        {
+          "subject": "Politics",
+          "rank": 81
+        },
+        {
+          "subject": "Sociology",
+          "rank": 82
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 83
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 90
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 116
+        }
+      ],
+      "qs_title": "Hong Kong Baptist University",
+      "qs_path": "/universities/hong-kong-baptist-university"
+    },
+    "88": {
+      "world_rank": "70",
+      "world_rank_display": "#70",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 79
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 48
+        },
+        {
+          "subject": "Medicine",
+          "rank": 35
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 29
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Materials Sciences",
+          "rank": 29
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 34
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 34
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 34
+        },
+        {
+          "subject": "Medicine",
+          "rank": 35
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 37
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 38
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 39
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 43
+        },
+        {
+          "subject": "Veterinary Science",
+          "rank": 45
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 48
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 48
+        },
+        {
+          "subject": "Marketing",
+          "rank": 55
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 55
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 73
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 79
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 79
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 79
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 79
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 84
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 84
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 90
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 91
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 99
+        }
+      ],
+      "qs_title": "City University of Hong Kong (CityUHK)",
+      "qs_path": "/universities/city-university-hong-kong-cityuhk"
+    },
+    "89": {
+      "world_rank": "11",
+      "world_rank_display": "#11",
+      "subjects": [
+        {
+          "subject": "Engineering & Technology",
+          "rank": 21
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 81
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 26
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 23
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 3
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 5
+        },
+        {
+          "subject": "History of Art",
+          "rank": 7
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 8
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 8
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 8
+        },
+        {
+          "subject": "Nursing",
+          "rank": 11
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 11
+        },
+        {
+          "subject": "History",
+          "rank": 11
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 11
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 14
+        },
+        {
+          "subject": "Performing Arts",
+          "rank": 16
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 18
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 20
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 21
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 21
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 21
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 21
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 21
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 21
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 23
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 23
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 23
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 24
+        },
+        {
+          "subject": "Medicine",
+          "rank": 24
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 24
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 24
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 25
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 25
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 26
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 26
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 36
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 37
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 37
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 37
+        },
+        {
+          "subject": "Marketing",
+          "rank": 40
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 42
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 42
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 45
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 52
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 53
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 55
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 61
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 67
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 68
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 81
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 81
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 83
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 88
+        },
+        {
+          "subject": "Psychology",
+          "rank": 109
+        },
+        {
+          "subject": "Sociology",
+          "rank": 117
+        },
+        {
+          "subject": "Politics",
+          "rank": 118
+        }
+      ],
+      "qs_title": "The University of Hong Kong",
+      "qs_path": "/universities/university-hong-kong"
+    },
+    "90": {
+      "world_rank": "54",
+      "world_rank_display": "#54",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 18
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 56
+        },
+        {
+          "subject": "Medicine",
+          "rank": 27
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 11
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "English Language and Literature",
+          "rank": 11
+        },
+        {
+          "subject": "Nursing",
+          "rank": 14
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 18
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 18
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 18
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 18
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 20
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 23
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 27
+        },
+        {
+          "subject": "Medicine",
+          "rank": 27
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 28
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 33
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 40
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 41
+        },
+        {
+          "subject": "Marketing",
+          "rank": 44
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 45
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 46
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 47
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 56
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 56
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 79
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 82
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 86
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 87
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 91
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 91
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 101
+        }
+      ],
+      "qs_title": "The Hong Kong Polytechnic University",
+      "qs_path": "/universities/hong-kong-polytechnic-university"
+    },
+    "91": {
+      "world_rank": "44",
+      "world_rank_display": "#44",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 29
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 21
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 12
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 15
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Materials Sciences",
+          "rank": 12
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 15
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 16
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 16
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 17
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 21
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 21
+        },
+        {
+          "subject": "Marketing",
+          "rank": 23
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 28
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 29
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 29
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 29
+        }
+      ],
+      "qs_title": "The Hong Kong University of Science and Technology",
+      "qs_path": "/universities/hong-kong-university-science-technology"
+    },
+    "92": {
+      "world_rank": "48",
+      "world_rank_display": "#48",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "The Chinese University of Hong Kong (CUHK)",
+      "qs_path": null,
+      "manual_note": "Rank from QS 2026 global list; main campus not in Algolia universities index"
+    },
+    "93": {
+      "world_rank": "367",
+      "world_rank_display": "#367",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Universiti Brunei Darussalam (UBD)",
+      "qs_path": "/universities/universiti-brunei-darussalam-ubd"
+    },
+    "94": {
+      "world_rank": "152",
+      "world_rank_display": "#152",
+      "subjects": [
+        {
+          "subject": "Engineering & Technology",
+          "rank": 37
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 38
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 23
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 23
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 23
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 23
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 26
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 31
+        },
+        {
+          "subject": "History",
+          "rank": 31
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 31
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 37
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 38
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 39
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 40
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 41
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 68
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 84
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 85
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 89
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 94
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 96
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 111
+        }
+      ],
+      "qs_title": "University of Vienna",
+      "qs_path": "/universities/university-vienna"
+    },
+    "95": {
+      "world_rank": "427",
+      "world_rank_display": "#427",
+      "subjects": [
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 90
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 92
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 92
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 90
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 92
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 92
+        }
+      ],
+      "qs_title": "Graz University of Technology",
+      "qs_path": "/universities/graz-university-technology"
+    },
+    "96": {
+      "world_rank": "189",
+      "world_rank_display": "#189",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 60
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 91
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 20
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 25
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Linguistics",
+          "rank": 20
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 25
+        },
+        {
+          "subject": "History",
+          "rank": 25
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 25
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 60
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 62
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 62
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 91
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 91
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 99
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 99
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 107
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 109
+        }
+      ],
+      "qs_title": "Universite libre de Bruxelles",
+      "qs_path": "/universities/universite-libre-de-bruxelles"
+    },
+    "97": {
+      "world_rank": "61",
+      "world_rank_display": "#61",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 24
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 42
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 57
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 9
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 9
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 14
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 14
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 18
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 20
+        },
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 23
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 23
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 24
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 24
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 24
+        },
+        {
+          "subject": "Politics",
+          "rank": 25
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 25
+        },
+        {
+          "subject": "Sociology",
+          "rank": 25
+        },
+        {
+          "subject": "Psychology",
+          "rank": 26
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 26
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 27
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 27
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 31
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 32
+        },
+        {
+          "subject": "History",
+          "rank": 32
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 32
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 32
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 35
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 36
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 41
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 42
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 42
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 53
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 56
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 57
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 57
+        },
+        {
+          "subject": "Nursing",
+          "rank": 59
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 59
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 59
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 60
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 61
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 61
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 61
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 64
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 74
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 78
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 106
+        }
+      ],
+      "qs_title": "KU Leuven",
+      "qs_path": "/universities/ku-leuven"
+    },
+    "98": {
+      "world_rank": "248",
+      "world_rank_display": "#248",
+      "subjects": [
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 83
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 101
+        },
+        {
+          "subject": "History",
+          "rank": 127
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 83
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 101
+        },
+        {
+          "subject": "History",
+          "rank": 127
+        }
+      ],
+      "qs_title": "University of Antwerp",
+      "qs_path": "/universities/university-antwerp"
+    },
+    "99": {
+      "world_rank": "611-620",
+      "world_rank_display": "#611-620",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 68
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 63
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 68
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 63
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 68
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 68
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 68
+        }
+      ],
+      "qs_title": "Brno University of Technology",
+      "qs_path": "/universities/brno-university-technology"
+    },
+    "100": {
+      "world_rank": "430",
+      "world_rank_display": "#430",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Masaryk University",
+      "qs_path": "/universities/masaryk-university"
+    },
+    "101": {
+      "world_rank": "1201-1400",
+      "world_rank_display": "#1201-1400",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Ostrava",
+      "qs_path": "/universities/university-ostrava"
+    },
+    "102": {
+      "world_rank": "416",
+      "world_rank_display": "#416",
+      "subjects": [
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 83
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 85
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 85
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 83
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 85
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 85
+        }
+      ],
+      "qs_title": "Czech Technical University in Prague",
+      "qs_path": "/universities/czech-technical-university-prague"
+    },
+    "103": {
+      "world_rank": "668",
+      "world_rank_display": "#668",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Palacký University Olomouc",
+      "qs_path": "/universities/palacky-university-olomouc"
+    },
+    "104": {
+      "world_rank": "248",
+      "world_rank_display": "#248",
+      "subjects": [
+        {
+          "subject": "Engineering & Technology",
+          "rank": 89
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 84
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 24
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 48
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Library & Information Management",
+          "rank": 24
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 48
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 49
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 54
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 56
+        },
+        {
+          "subject": "History",
+          "rank": 59
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 61
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 61
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 62
+        },
+        {
+          "subject": "Politics",
+          "rank": 63
+        },
+        {
+          "subject": "Psychology",
+          "rank": 63
+        },
+        {
+          "subject": "Sociology",
+          "rank": 65
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 66
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 70
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 70
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 84
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 89
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 89
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 92
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 93
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 96
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 104
+        },
+        {
+          "subject": "Medicine",
+          "rank": 104
+        }
+      ],
+      "qs_title": "Charles University",
+      "qs_path": "/universities/charles-university"
+    },
+    "105": {
+      "world_rank": "107",
+      "world_rank_display": "#107",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 31
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 30
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 31
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 30
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 31
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 31
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 31
+        }
+      ],
+      "qs_title": "Technical University of Denmark",
+      "qs_path": "/universities/technical-university-denmark"
+    },
+    "106": {
+      "world_rank": "303",
+      "world_rank_display": "#303",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Southern Denmark (SDU)",
+      "qs_path": "/universities/university-southern-denmark-sdu"
+    },
+    "107": {
+      "world_rank": "87",
+      "world_rank_display": "#87",
+      "subjects": [
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 94
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 134
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 94
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 134
+        }
+      ],
+      "qs_title": "University of Southampton",
+      "qs_path": "/universities/university-southampton"
+    },
+    "108": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Hanken School of Economics",
+      "qs_path": "/universities/hanken-school-economics"
+    },
+    "109": {
+      "world_rank": "446",
+      "world_rank_display": "#446",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Jyväskylä",
+      "qs_path": "/universities/university-jyvaskyla"
+    },
+    "110": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "111": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "112": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "113": {
+      "world_rank": "711-720",
+      "world_rank_display": "#711-720",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Université de Rennes",
+      "qs_path": "/universities/universite-de-rennes"
+    },
+    "114": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "EM Normandie Business School Dubai",
+      "qs_path": "/universities/em-normandie-business-school-dubai"
+    },
+    "115": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "116": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "SKEMA Business School",
+      "qs_path": "/universities/skema-business-school"
+    },
+    "117": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "118": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Institut Mines-Telecom Business School",
+      "qs_path": "/universities/institut-mines-telecom-business-school"
+    },
+    "119": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "120": {
+      "world_rank": "1201-1400",
+      "world_rank_display": "#1201-1400",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Université Jean Moulin Lyon 3",
+      "qs_path": "/universities/universite-jean-moulin-lyon-3"
+    },
+    "121": {
+      "world_rank": "70",
+      "world_rank_display": "#70",
+      "subjects": [
+        {
+          "subject": "Medicine",
+          "rank": 83
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 74
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 75
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Modern Languages",
+          "rank": 74
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 75
+        },
+        {
+          "subject": "Medicine",
+          "rank": 83
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 86
+        }
+      ],
+      "qs_title": "Université Paris-Saclay",
+      "qs_path": "/universities/universite-paris-saclay"
+    },
+    "122": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Telecom Paris",
+      "qs_path": "/universities/telecom-paris"
+    },
+    "123": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Ecole des Mines de Saint-Etienne",
+      "qs_path": "/universities/ecole-des-mines-de-saint-etienne"
+    },
+    "124": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "IMT Atlantique",
+      "qs_path": "/universities/imt-atlantique"
+    },
+    "125": {
+      "world_rank": "38",
+      "world_rank_display": "#38",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 41
+        },
+        {
+          "subject": "Medicine",
+          "rank": 85
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 40
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 41
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 40
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 41
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 41
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 41
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 77
+        },
+        {
+          "subject": "Medicine",
+          "rank": 85
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 88
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 88
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 120
+        }
+      ],
+      "qs_title": "Institut Polytechnique de Paris",
+      "qs_path": "/universities/institut-polytechnique-de-paris"
+    },
+    "126": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Université Jean Monnet, Saint-Etienne",
+      "qs_path": "/universities/universite-jean-monnet-saint-etienne"
+    },
+    "127": {
+      "world_rank": "494",
+      "world_rank_display": "#494",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Bordeaux",
+      "qs_path": "/universities/university-bordeaux"
+    },
+    "128": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Institut National des Sciences Appliquées de Strasbourg (INSA)",
+      "qs_path": "/universities/institut-national-des-sciences-appliquees-de-strasbourg-insa"
+    },
+    "129": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Rennes School of Business",
+      "qs_path": "/universities/rennes-school-business"
+    },
+    "130": {
+      "world_rank": "587",
+      "world_rank_display": "#587",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Université Paul Sabatier Toulouse III",
+      "qs_path": "/universities/universite-paul-sabatier-toulouse-iii"
+    },
+    "131": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "KEDGE Business School",
+      "qs_path": "/universities/kedge-business-school"
+    },
+    "132": {
+      "world_rank": "70",
+      "world_rank_display": "#70",
+      "subjects": [
+        {
+          "subject": "Medicine",
+          "rank": 83
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 74
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 75
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Modern Languages",
+          "rank": 74
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 75
+        },
+        {
+          "subject": "Medicine",
+          "rank": 83
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 86
+        }
+      ],
+      "qs_title": "Université Paris-Saclay",
+      "qs_path": "/universities/universite-paris-saclay"
+    },
+    "133": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "BSB - Burgundy School of Business",
+      "qs_path": "/universities/bsb-burgundy-school-business/bsb-burgundy-school-business"
+    },
+    "134": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Université Paris-Est Créteil Val de Marne",
+      "qs_path": "/universities/universite-paris-est-creteil-val-de-marne"
+    },
+    "135": {
+      "world_rank": "38",
+      "world_rank_display": "#38",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 41
+        },
+        {
+          "subject": "Medicine",
+          "rank": 85
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 40
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 41
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 40
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 41
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 41
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 41
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 77
+        },
+        {
+          "subject": "Medicine",
+          "rank": 85
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 88
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 88
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 120
+        }
+      ],
+      "qs_title": "Institut Polytechnique de Paris",
+      "qs_path": "/universities/institut-polytechnique-de-paris"
+    },
+    "136": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Université de Technologie de Compiègne (UTC)",
+      "qs_path": "/universities/universite-de-technologie-de-compiegne-utc"
+    },
+    "137": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Institut Supérieur d'Électronique de Paris (ISEP)",
+      "qs_path": "/universities/institut-superieur-delectronique-de-paris-isep"
+    },
+    "138": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Sup Biotech, Paris",
+      "qs_path": "/universities/sup-biotech-paris"
+    },
+    "139": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Institut National des Sciences Appliques de Toulouse (INSA)",
+      "qs_path": "/universities/institut-national-des-sciences-appliques-de-toulouse-insa"
+    },
+    "140": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "141": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": "Université  de Technologie, Troyes (UTT)",
+      "world_rank_display": null,
+      "qs_path": "/universities/universite-de-technologie-troyes-utt"
+    },
+    "142": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "143": {
+      "world_rank": "232",
+      "world_rank_display": "#232",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "qs_path": "/universities/friedrich-alexander-universitat-erlangen-nurnberg"
+    },
+    "144": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "ESB Business School, Reutlingen University",
+      "qs_path": "/universities/esb-business-school-reutlingen-university"
+    },
+    "145": {
+      "world_rank": "635",
+      "world_rank_display": "#635",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Saarland University",
+      "qs_path": "/universities/saarland-university"
+    },
+    "146": {
+      "world_rank": "310",
+      "world_rank_display": "#310",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Universität Stuttgart",
+      "qs_path": "/universities/universitat-stuttgart"
+    },
+    "147": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Augsburg",
+      "qs_path": "/universities/university-augsburg"
+    },
+    "148": {
+      "world_rank": "106",
+      "world_rank_display": "#106",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "RWTH Aachen University",
+      "qs_path": "/universities/rwth-aachen-university"
+    },
+    "149": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Darmstadt University of Applied Sciences",
+      "qs_path": "/universities/darmstadt-university-applied-sciences"
+    },
+    "150": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "151": {
+      "world_rank": "22",
+      "world_rank_display": "#22",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 30
+        },
+        {
+          "subject": "Medicine",
+          "rank": 50
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 29
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 30
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 29
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 30
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 30
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 30
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 43
+        },
+        {
+          "subject": "Medicine",
+          "rank": 50
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 52
+        },
+        {
+          "subject": "Marketing",
+          "rank": 75
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 80
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 89
+        }
+      ],
+      "qs_title": "Technical University of Munich",
+      "qs_path": "/universities/technical-university-munich"
+    },
+    "152": {
+      "world_rank": "80",
+      "world_rank_display": "#80",
+      "subjects": [
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 9
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 49
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 4
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 7
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Dentistry",
+          "rank": 4
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 7
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 8
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 8
+        },
+        {
+          "subject": "Computer Science and Information Systems",
+          "rank": 9
+        },
+        {
+          "subject": "Classics & Ancient History",
+          "rank": 9
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 12
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 23
+        },
+        {
+          "subject": "Politics",
+          "rank": 28
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 28
+        },
+        {
+          "subject": "Sociology",
+          "rank": 28
+        },
+        {
+          "subject": "Psychology",
+          "rank": 29
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 29
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 49
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 51
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 53
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 55
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 96
+        },
+        {
+          "subject": "Medicine",
+          "rank": 109
+        }
+      ],
+      "qs_title": "Universität Heidelberg",
+      "qs_path": "/universities/universitat-heidelberg"
+    },
+    "153": {
+      "world_rank": "454",
+      "world_rank_display": "#454",
+      "subjects": [
+        {
+          "subject": "Business & Management Studies",
+          "rank": 61
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 61
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Business & Management Studies",
+          "rank": 61
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 61
+        }
+      ],
+      "qs_title": "Universität Mannheim",
+      "qs_path": "/universities/universitat-mannheim"
+    },
+    "154": {
+      "world_rank": "145",
+      "world_rank_display": "#145",
+      "subjects": [
+        {
+          "subject": "Geophysics",
+          "rank": 77
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 80
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 85
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Geophysics",
+          "rank": 77
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 80
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 85
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 98
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 131
+        }
+      ],
+      "qs_title": "Technische Universität Berlin (TU Berlin)",
+      "qs_path": "/universities/technische-universitat-berlin-tu-berlin"
+    },
+    "155": {
+      "world_rank": "218",
+      "world_rank_display": "#218",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Technische Universität Dresden",
+      "qs_path": "/universities/technische-universitat-dresden"
+    },
+    "156": {
+      "world_rank": "584",
+      "world_rank_display": "#584",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Eötvös Loránd University",
+      "qs_path": "/universities/eotvos-lorand-university"
+    },
+    "157": {
+      "world_rank": "222",
+      "world_rank_display": "#222",
+      "subjects": [
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 58
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 60
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 94
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 58
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 60
+        },
+        {
+          "subject": "Physics & Astronomy",
+          "rank": 94
+        },
+        {
+          "subject": "Psychology",
+          "rank": 97
+        },
+        {
+          "subject": "Politics",
+          "rank": 103
+        },
+        {
+          "subject": "Sociology",
+          "rank": 103
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 114
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Philosophy",
+          "rank": 115
+        }
+      ],
+      "qs_title": "Radboud University",
+      "qs_path": "/universities/radboud-university"
+    },
+    "158": {
+      "world_rank": "147",
+      "world_rank_display": "#147",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 68
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 29
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 29
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 33
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 29
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 29
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 33
+        },
+        {
+          "subject": "Law & Legal Studies",
+          "rank": 38
+        },
+        {
+          "subject": "History",
+          "rank": 38
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 38
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 40
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 56
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 63
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 68
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 70
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 72
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 81
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 84
+        },
+        {
+          "subject": "Economics & Econometrics",
+          "rank": 103
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 124
+        }
+      ],
+      "qs_title": "University of Groningen",
+      "qs_path": "/universities/university-groningen"
+    },
+    "159": {
+      "world_rank": "203",
+      "world_rank_display": "#203",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Twente",
+      "qs_path": "/universities/university-twente"
+    },
+    "160": {
+      "world_rank": "271",
+      "world_rank_display": "#271",
+      "subjects": [
+        {
+          "subject": "Engineering & Technology",
+          "rank": 99
+        },
+        {
+          "subject": "Medicine",
+          "rank": 117
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 85
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 93
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 85
+        },
+        {
+          "subject": "Theology, Divinity & Religious Studies",
+          "rank": 93
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 95
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 99
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 100
+        },
+        {
+          "subject": "Modern Languages",
+          "rank": 103
+        },
+        {
+          "subject": "Medicine",
+          "rank": 117
+        }
+      ],
+      "qs_title": "University of Warsaw",
+      "qs_path": "/universities/university-warsaw"
+    },
+    "161": {
+      "world_rank": "78",
+      "world_rank_display": "#78",
+      "subjects": [
+        {
+          "subject": "Materials Sciences",
+          "rank": 92
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 103
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 107
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Materials Sciences",
+          "rank": 92
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 103
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 107
+        }
+      ],
+      "qs_title": "KTH Royal Institute of Technology",
+      "qs_path": "/universities/kth-royal-institute-technology"
+    },
+    "162": {
+      "world_rank": "129",
+      "world_rank_display": "#129",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 75
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 70
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 75
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 70
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 75
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 75
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 75
+        }
+      ],
+      "qs_title": "Chalmers University of Technology",
+      "qs_path": "/universities/chalmers-university-technology"
+    },
+    "163": {
+      "world_rank": "310",
+      "world_rank_display": "#310",
+      "subjects": [
+        {
+          "subject": "Nursing",
+          "rank": 99
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Nursing",
+          "rank": 99
+        }
+      ],
+      "qs_title": "Linköping University",
+      "qs_path": "/universities/linkoping-university"
+    },
+    "164": {
+      "world_rank": "1401+",
+      "world_rank_display": "#1401+",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Zurich University of Applied Sciences (ZHAW)",
+      "qs_path": "/universities/zurich-university-applied-sciences-zhaw"
+    },
+    "165": {
+      "world_rank": "7",
+      "subjects": [],
+      "qs_title": "ETH Zurich",
+      "world_rank_display": "#7",
+      "qs_path": "/universities/eth-zurich"
+    },
+    "166": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Agder",
+      "qs_path": "/universities/university-agder"
+    },
+    "167": {
+      "world_rank": "233",
+      "world_rank_display": "#233",
+      "subjects": [
+        {
+          "subject": "Chemical Engineering",
+          "rank": 79
+        },
+        {
+          "subject": "Veterinary Science",
+          "rank": 32
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 70
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Veterinary Science",
+          "rank": 32
+        },
+        {
+          "subject": "Data Science and Artificial Intelligence",
+          "rank": 70
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 79
+        },
+        {
+          "subject": "Earth & Marine Sciences",
+          "rank": 89
+        },
+        {
+          "subject": "Communication & Media Studies",
+          "rank": 89
+        },
+        {
+          "subject": "Education & Training",
+          "rank": 98
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 116
+        }
+      ],
+      "qs_title": "Università di Padova",
+      "qs_path": "/universities/universita-di-padova"
+    },
+    "168": {
+      "world_rank": "650",
+      "world_rank_display": "#650",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Brescia",
+      "qs_path": "/universities/university-brescia"
+    },
+    "169": {
+      "world_rank": "123",
+      "world_rank_display": "#123",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 15
+        },
+        {
+          "subject": "Medicine",
+          "rank": 45
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 15
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 15
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 15
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 15
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 15
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 15
+        },
+        {
+          "subject": "Materials Sciences",
+          "rank": 39
+        },
+        {
+          "subject": "Medicine",
+          "rank": 45
+        },
+        {
+          "subject": "Mathematics",
+          "rank": 48
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 68
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 68
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 68
+        },
+        {
+          "subject": "Marketing",
+          "rank": 70
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 75
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 81
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 90
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 96
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geography",
+          "rank": 109
+        }
+      ],
+      "qs_title": "Politecnico di Milano",
+      "qs_path": "/universities/politecnico-di-milano"
+    },
+    "170": {
+      "world_rank": "951-1000",
+      "world_rank_display": "#951-1000",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Parma",
+      "qs_path": "/universities/university-parma"
+    },
+    "171": {
+      "world_rank": "851-900",
+      "world_rank_display": "#851-900",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "VILNIUS TECH (Vilnius Gediminas Technical University)",
+      "qs_path": "/universities/vilnius-tech-vilnius-gediminas-technical-university"
+    },
+    "172": {
+      "world_rank": "446",
+      "world_rank_display": "#446",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Vilnius University",
+      "qs_path": "/universities/vilnius-university"
+    },
+    "173": {
+      "world_rank": "469",
+      "world_rank_display": "#469",
+      "subjects": [
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 106
+        },
+        {
+          "subject": "History",
+          "rank": 116
+        },
+        {
+          "subject": "Nursing",
+          "rank": 121
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 106
+        },
+        {
+          "subject": "History",
+          "rank": 116
+        },
+        {
+          "subject": "Nursing",
+          "rank": 121
+        }
+      ],
+      "qs_title": "Universidad de Sevilla",
+      "qs_path": "/universities/universidad-de-sevilla"
+    },
+    "174": {
+      "world_rank": "301",
+      "world_rank_display": "#301",
+      "subjects": [
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 83
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 62
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 50
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 62
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Library & Information Management",
+          "rank": 50
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 62
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 62
+        },
+        {
+          "subject": "Engineering - Petroleum",
+          "rank": 83
+        },
+        {
+          "subject": "History",
+          "rank": 112
+        }
+      ],
+      "qs_title": "Universidad Carlos III de Madrid (UC3M)",
+      "qs_path": "/universities/universidad-carlos-iii-de-madrid-uc3m"
+    },
+    "175": {
+      "world_rank": "160",
+      "world_rank_display": "#160",
+      "subjects": [
+        {
+          "subject": "Engineering & Technology",
+          "rank": 88
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 83
+        },
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 39
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 51
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Hospitality & Leisure Management",
+          "rank": 39
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 51
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 53
+        },
+        {
+          "subject": "Dentistry",
+          "rank": 78
+        },
+        {
+          "subject": "Social Policy & Administration",
+          "rank": 81
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 83
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 88
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 88
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 95
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 98
+        },
+        {
+          "subject": "Development Studies",
+          "rank": 100
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 106
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 107
+        }
+      ],
+      "qs_title": "Universitat de Barcelona",
+      "qs_path": "/universities/universitat-de-barcelona"
+    },
+    "176": {
+      "world_rank": "172",
+      "world_rank_display": "#172",
+      "subjects": [
+        {
+          "subject": "Engineering & Technology",
+          "rank": 93
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 88
+        },
+        {
+          "subject": "Veterinary Science",
+          "rank": 39
+        },
+        {
+          "subject": "Nursing",
+          "rank": 69
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Veterinary Science",
+          "rank": 39
+        },
+        {
+          "subject": "Nursing",
+          "rank": 69
+        },
+        {
+          "subject": "Life Sciences & Medicine",
+          "rank": 88
+        },
+        {
+          "subject": "Natural Sciences",
+          "rank": 93
+        },
+        {
+          "subject": "Engineering & Technology",
+          "rank": 93
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 94
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 97
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 97
+        },
+        {
+          "subject": "Social Sciences & Management",
+          "rank": 100
+        },
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 101
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 105
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 106
+        },
+        {
+          "subject": "Arts and Humanities",
+          "rank": 109
+        },
+        {
+          "subject": "Linguistics",
+          "rank": 120
+        },
+        {
+          "subject": "History",
+          "rank": 122
+        }
+      ],
+      "qs_title": "Universitat Autònoma de Barcelona",
+      "qs_path": "/universities/universitat-autonoma-de-barcelona"
+    },
+    "177": {
+      "world_rank": "697",
+      "world_rank_display": "#697",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Universidad de Alcalá (Madrid)",
+      "qs_path": "/universities/universidad-de-alcala-madrid"
+    },
+    "178": {
+      "world_rank": "354",
+      "world_rank_display": "#354",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 27
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 26
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 27
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Environmental Sciences",
+          "rank": 26
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 27
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 27
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 27
+        }
+      ],
+      "qs_title": "Universitat Politècnica de Catalunya · BarcelonaTech (UPC)",
+      "qs_path": "/universities/universitat-politecnica-de-catalunya-barcelonatech-upc"
+    },
+    "179": {
+      "world_rank": "410",
+      "world_rank_display": "#410",
+      "subjects": [
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 60
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 67
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 70
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Anatomy & Physiology",
+          "rank": 60
+        },
+        {
+          "subject": "Art & Design",
+          "rank": 67
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 70
+        }
+      ],
+      "qs_title": "Auckland University of Technology (AUT)",
+      "qs_path": "/universities/auckland-university-technology-aut"
+    },
+    "180": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "181": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Polytechnique Montreal",
+      "qs_path": "/universities/polytechnique-montreal"
+    },
+    "182": {
+      "world_rank": "701-800",
+      "world_rank_display": "#701-800",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Université du Québec à Montréal (UQAM)",
+      "qs_path": "/universities/universite-du-quebec-montreal",
+      "manual_note": "QS 2026 individual rank; Algolia university entry has wur_rank '-'"
+    },
+    "183": {
+      "world_rank": null,
+      "world_rank_display": null,
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "École de technologie supérieure",
+      "qs_path": "/universities/ecole-de-technologie-superieure"
+    },
+    "184": {
+      "world_rank": "951-1000",
+      "world_rank_display": "#951-1000",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "University of Regina",
+      "qs_path": "/universities/university-regina"
+    },
+    "185": {
+      "world_rank": "711-720",
+      "world_rank_display": "#711-720",
+      "subjects": [
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 98
+        },
+        {
+          "subject": "History",
+          "rank": 133
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Statistics & Operational Research",
+          "rank": 98
+        },
+        {
+          "subject": "History",
+          "rank": 133
+        }
+      ],
+      "qs_title": "University of New Brunswick",
+      "qs_path": "/universities/university-new-brunswick"
+    },
+    "186": {
+      "world_rank": "452",
+      "world_rank_display": "#452",
+      "subjects": [
+        {
+          "subject": "Dentistry",
+          "rank": 116
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Dentistry",
+          "rank": 116
+        }
+      ],
+      "qs_title": "Stony Brook University, State University of New York",
+      "qs_path": "/universities/stony-brook-university-state-university-new-york"
+    },
+    "187": {
+      "world_rank": "264",
+      "world_rank_display": "#264",
+      "subjects": [
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 58
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 110
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 113
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 58
+        },
+        {
+          "subject": "Geophysics",
+          "rank": 110
+        },
+        {
+          "subject": "QS World University Rankings by Subject 2026: Geology",
+          "rank": 113
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 117
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 120
+        }
+      ],
+      "qs_title": "University of Colorado Boulder",
+      "qs_path": "/universities/university-colorado-boulder"
+    },
+    "188": {
+      "world_rank": null,
+      "subjects": [],
+      "qs_title": null
+    },
+    "189": {
+      "world_rank": "64",
+      "world_rank_display": "#64",
+      "subjects": [
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 7
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 39
+        },
+        {
+          "subject": "English Language and Literature",
+          "rank": 4
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 7
+        }
+      ],
+      "all_subjects": [
+        {
+          "subject": "English Language and Literature",
+          "rank": 4
+        },
+        {
+          "subject": "Environmental Sciences",
+          "rank": 7
+        },
+        {
+          "subject": "Mechanical, Aeronautical & Manufacturing Engineering",
+          "rank": 7
+        },
+        {
+          "subject": "Civil and Structural Engineering",
+          "rank": 7
+        },
+        {
+          "subject": "Electrical and Electronic Engineering",
+          "rank": 7
+        },
+        {
+          "subject": "Agriculture & Forestry",
+          "rank": 9
+        },
+        {
+          "subject": "Archaeology",
+          "rank": 26
+        },
+        {
+          "subject": "Architecture & Built Environment",
+          "rank": 28
+        },
+        {
+          "subject": "Anthropology",
+          "rank": 30
+        },
+        {
+          "subject": "Biological Sciences",
+          "rank": 32
+        },
+        {
+          "subject": "Chemistry",
+          "rank": 32
+        },
+        {
+          "subject": "Veterinary Science",
+          "rank": 36
+        },
+        {
+          "subject": "Business & Management Studies",
+          "rank": 39
+        },
+        {
+          "subject": "Accounting & Finance",
+          "rank": 39
+        },
+        {
+          "subject": "Library & Information Management",
+          "rank": 58
+        },
+        {
+          "subject": "Nursing",
+          "rank": 60
+        },
+        {
+          "subject": "Sports-Related Subjects",
+          "rank": 77
+        },
+        {
+          "subject": "Chemical Engineering",
+          "rank": 97
+        }
+      ],
+      "qs_title": "University of Illinois Urbana-Champaign",
+      "qs_path": "/universities/university-illinois-urbana-champaign"
+    },
+    "190": {
+      "world_rank": "951-1000",
+      "world_rank_display": "#951-1000",
+      "subjects": [],
+      "all_subjects": [],
+      "qs_title": "Universidad Autónoma Metropolitana (UAM)",
+      "qs_path": "/universities/universidad-autonoma-metropolitana-uam"
+    }
+  }
+}

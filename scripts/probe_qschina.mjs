@@ -1,0 +1,10 @@
+const html = await fetch('https://www.qschina.cn/en/university-rankings/world-university-rankings/2026').then((r) => r.text());
+console.log('len', html.length);
+console.log('has Shanghai', html.includes('Shanghai University'));
+console.log('has Kyoto', html.includes('Kyoto'));
+const idx = html.indexOf('Shanghai University');
+if (idx > 0) console.log(html.slice(idx - 80, idx + 120));
+const jsonMatch = html.match(/"rankings":\s*\[/);
+console.log('json rankings', !!jsonMatch);
+const algolia = html.match(/algolia_ranking_index":"([^"]+)"/);
+console.log('algolia index', algolia?.[1]);

@@ -1,0 +1,7388 @@
+[
+  {
+    "id": 0,
+    "name": "Shanghai University",
+    "country": "China",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 31.3144,
+    "lng": 121.3913
+  },
+  {
+    "id": 1,
+    "name": "Shanghai University",
+    "country": "China",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 31.3144,
+    "lng": 121.3913
+  },
+  {
+    "id": 2,
+    "name": "Sichuan University",
+    "country": "China",
+    "quota_raw": "5/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 3,
+    "name": "Fuzhou University",
+    "country": "China",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 4,
+    "name": "University of Science and Technology of China",
+    "country": "China",
+    "quota_raw": "5/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 5,
+    "name": "Lanzhou University",
+    "country": "China",
+    "quota_raw": "5/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 6,
+    "name": "Beijing University of Posts and Telecommunications",
+    "country": "China",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 7,
+    "name": "Peking University",
+    "country": "China",
+    "quota_raw": "5/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 8,
+    "name": "Peking University",
+    "country": "China",
+    "quota_raw": "1 student",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 9,
+    "name": "East China Normal University",
+    "country": "China",
+    "quota_raw": "3/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 10,
+    "name": "Dalian University of Technology",
+    "country": "China",
+    "quota_raw": "5/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 11,
+    "name": "Central China Normal University",
+    "country": "China",
+    "quota_raw": "4/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 12,
+    "name": "Xiamen University",
+    "country": "China",
+    "quota_raw": "5/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 13,
+    "name": "Fudan University",
+    "country": "China",
+    "quota_raw": "5 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 14,
+    "name": "Shanghai Jiao tong University",
+    "country": "China",
+    "quota_raw": "10/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.38/4.30",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 15,
+    "name": "Shanghai Jiao tong University",
+    "country": "China",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 16,
+    "name": "Huazhong University of Science and Technology",
+    "country": "China",
+    "quota_raw": "3/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 17,
+    "name": "Nanjing University",
+    "country": "China",
+    "quota_raw": "10/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 18,
+    "name": "Xi’an Jiaotong University",
+    "country": "China",
+    "quota_raw": "10/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 19,
+    "name": "Beijing Jiaotong University",
+    "country": "China",
+    "quota_raw": "3/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 20,
+    "name": "Beijing Jiaotong University",
+    "country": "China",
+    "quota_raw": "3/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 21,
+    "name": "Chang'An University",
+    "country": "China",
+    "quota_raw": "3/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 22,
+    "name": "Tsinghua University",
+    "country": "China",
+    "quota_raw": "1 student",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 23,
+    "name": "South China University of Technology",
+    "country": "China",
+    "quota_raw": "5/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 24,
+    "name": "China Academy of Art",
+    "country": "China",
+    "quota_raw": "1/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 25,
+    "name": "Tongji university",
+    "country": "China",
+    "quota_raw": "5/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 26,
+    "name": "Southeast University",
+    "country": "China",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 27,
+    "name": "University of Electronic Science and Technology of China",
+    "country": "China",
+    "quota_raw": "3/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 28,
+    "name": "Chongqing University",
+    "country": "China",
+    "quota_raw": "3/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 29,
+    "name": "Nankai University",
+    "country": "China",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 39.1035701,
+    "lng": 117.1622314
+  },
+  {
+    "id": 30,
+    "name": "Waseda University",
+    "country": "Japan",
+    "quota_raw": "Fall: 2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA3.3/4.3",
+    "lang_raw": "各program要求不同 Varies for different programs",
+    "lat": 35.7091798,
+    "lng": 139.7197213
+  },
+  {
+    "id": 31,
+    "name": "Waseda University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 35.7091798,
+    "lng": 139.7197213
+  },
+  {
+    "id": 32,
+    "name": "Japan Advanced Institute of Science and Technology",
+    "country": "Japan",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.4436614,
+    "lng": 136.5923335
+  },
+  {
+    "id": 33,
+    "name": "Japan Advanced Institute of Science and Technology",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.4436614,
+    "lng": 136.5923335
+  },
+  {
+    "id": 34,
+    "name": "Kyushu Institute of Technology",
+    "country": "Japan",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "Strongly recommended for bachelor students to have high proficiency of Japanese because there are no bachelor courses offered in English        ",
+    "lat": 33.892554,
+    "lng": 130.8401044
+  },
+  {
+    "id": 35,
+    "name": "University of Yamanashi",
+    "country": "Japan",
+    "quota_raw": "Fall: 4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 35.6785206,
+    "lng": 138.5723159
+  },
+  {
+    "id": 36,
+    "name": "University of Yamanashi",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 35.6785206,
+    "lng": 138.5723159
+  },
+  {
+    "id": 37,
+    "name": "Nagoya University",
+    "country": "Japan",
+    "quota_raw": "1 student",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.3/4.3",
+    "lang_raw": "iBT 79/IELTS 6/TOEIC 780/JLPT N1",
+    "lat": 35.1533087,
+    "lng": 136.9677806
+  },
+  {
+    "id": 38,
+    "name": "Gunma University",
+    "country": "Japan",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "JLPT N2",
+    "lat": 36.4308155,
+    "lng": 139.0444871
+  },
+  {
+    "id": 39,
+    "name": "Gunma University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.4308155,
+    "lng": 139.0444871
+  },
+  {
+    "id": 40,
+    "name": "Institute of Science Tokyo (former Tokyo Tech)",
+    "country": "Japan",
+    "quota_raw": "Fall: 0 Spring: 4 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "YSEP: High-level English ability is required (submission of official test scores is strongly recommended.) ACAP: High-level English ability is required (submission of official test scores is strongly recommended.) JLPT result is required for UG yr.2 & 3 students.",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 41,
+    "name": "Institute of Science Tokyo (former Tokyo Tech)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 42,
+    "name": "Institute of Science Tokyo (former Tokyo Tech)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 43,
+    "name": "Institute of Science Tokyo (former Tokyo Tech)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 44,
+    "name": "Institute of Science Tokyo (former Tokyo Tech)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 45,
+    "name": "Institute of Science Tokyo (former Tokyo Tech)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 46,
+    "name": "Institute of Science Tokyo (former Tokyo Tech)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 47,
+    "name": "Kyoto University",
+    "country": "Japan",
+    "quota_raw": "2 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "classes in Japanese:   JLPT N1 is required  or equivalent level of Japanese",
+    "lat": 35.0270467,
+    "lng": 135.7814382
+  },
+  {
+    "id": 48,
+    "name": "Kyoto University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 35.0270467,
+    "lng": 135.7814382
+  },
+  {
+    "id": 49,
+    "name": "Nara Institute of Science and Technology",
+    "country": "Japan",
+    "quota_raw": "3 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 34.7318113,
+    "lng": 135.7335875
+  },
+  {
+    "id": 50,
+    "name": "Nara Institute of Science and Technology",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 34.7318113,
+    "lng": 135.7335875
+  },
+  {
+    "id": 51,
+    "name": "Osaka Metropolitan University",
+    "country": "Japan",
+    "quota_raw": "2 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 34.5919553,
+    "lng": 135.5061013
+  },
+  {
+    "id": 52,
+    "name": "Kwansei Gakuin University (KGU)",
+    "country": "Japan",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "各program要求不同 Varies for different programs",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 53,
+    "name": "Kwansei Gakuin University (KGU)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 54,
+    "name": "Kwansei Gakuin University (KGU)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 55,
+    "name": "Kwansei Gakuin University (KGU)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 36.5748441,
+    "lng": 139.2394179
+  },
+  {
+    "id": 56,
+    "name": "Kwansei Gakuin University (KGU)",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 57,
+    "name": "Kyushu University",
+    "country": "Japan",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "各program要求不同 Varies for different programs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 58,
+    "name": "Kyushu University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 59,
+    "name": "Kyushu University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 60,
+    "name": "Kyushu University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 61,
+    "name": "The University of Osaka",
+    "country": "Japan",
+    "quota_raw": "3 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.23/4.3",
+    "lang_raw": "各program要求不同 Varies for different programs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 62,
+    "name": "The University of Osaka",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 63,
+    "name": "The University of Osaka",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 64,
+    "name": "The University of Osaka",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 65,
+    "name": "The University of Osaka",
+    "country": "Japan",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "GPA3.23/4.3",
+    "lang_raw": "各program要求不同 Varies for different programs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 66,
+    "name": "The University of Osaka",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 67,
+    "name": "The University of Osaka",
+    "country": "Japan",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 68,
+    "name": "Chiba University",
+    "country": "Japan",
+    "quota_raw": "2 sem. slot",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "各program要求不同 Varies for different programs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 69,
+    "name": "Chiba University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 70,
+    "name": "Chiba University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 71,
+    "name": "Chiba University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 72,
+    "name": "Chiba University",
+    "country": "Japan",
+    "quota_raw": "2 student",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 73,
+    "name": "Chiba University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 74,
+    "name": "Chiba University",
+    "country": "Japan",
+    "quota_raw": "3 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": " College of Science: JLPT N1 or N2",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 75,
+    "name": "Chiba University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 76,
+    "name": "Tohoku University",
+    "country": "Japan",
+    "quota_raw": "3 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "各program要求不同 Varies for different programs",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 77,
+    "name": "Tohoku University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 78,
+    "name": "University of Tsukuba",
+    "country": "Japan",
+    "quota_raw": "8 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "College of Japanese Language & Culture: JLPT N2",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 79,
+    "name": "University of Tsukuba",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 80,
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "Type G: varies by each Graduate School Link Brochure PG Eligibility",
+    "lang_raw": "Type U: JLPT N1/ iBT90/IELTS6.5  Type G: varies by each Graduate School",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 81,
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 82,
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 83,
+    "name": "Kanazawa University",
+    "country": "Japan",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "JLPT N2/iBT60/ IELTS5.5/TOEIC600",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 84,
+    "name": "Kanazawa University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 85,
+    "name": "Kanazawa University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 86,
+    "name": "Kanazawa University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 87,
+    "name": "Kyoto Institute of Technology",
+    "country": "Japan",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "please see fact sheet",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 88,
+    "name": "Kyoto Institute of Technology",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 89,
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "HUSTEP: 3.3/4.3 (GPA)  JLCSP: Applicants must possess a good academic record at university level.  SA/SRS: Applicants must possess a high academic record at university level. ",
+    "lang_raw": "HUSTEP: TOEFL(iBT): 79 or above, IELTS Academic: 6.5 or above  JLCSP: JLPT:N3 or above  SA/SRS: JLPT: N2 pr above (SA undergraduate students), Fluent in either Japanese or English. (SA postgraduate students and SRS) ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 90,
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 91,
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 92,
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 93,
+    "name": "Hokkaido University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 94,
+    "name": "Kindai University",
+    "country": "Japan",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA2.7/4.3",
+    "lang_raw": "iBT61/JLPT N2",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 95,
+    "name": "Kindai University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 96,
+    "name": "Saitama University",
+    "country": "Japan",
+    "quota_raw": "3 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "GPA2.58/4.3",
+    "lang_raw": "TOEFL iBT 72; IELTS 5.5 (CEFR B2) or Equivalent JLPT N2 or Equivalent",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 97,
+    "name": "Saitama University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 98,
+    "name": "Saitama University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 99,
+    "name": "The University of Electro- Communications (UEC)",
+    "country": "Japan",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.3/4.3",
+    "lang_raw": "iBT79/IELTS6.5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 100,
+    "name": "Nagasaki University",
+    "country": "Japan",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "Student Exchange Program: varies for different departments",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 101,
+    "name": "Nagasaki University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 102,
+    "name": "Nagasaki University",
+    "country": "Japan",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "JLCP: N3 or above",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 103,
+    "name": "Kumamoto University",
+    "country": "Japan",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 104,
+    "name": "Chung-Ang University",
+    "country": "Korea",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 105,
+    "name": "Chung-Ang University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 106,
+    "name": "Chung-Ang University",
+    "country": "Korea",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 107,
+    "name": "Chung-Ang University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 108,
+    "name": "Hanyang University",
+    "country": "Korea",
+    "quota_raw": "Seoul Campus: 2 sem. slot (Exclude: Medicine, Nursing)",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA2.6/4.3",
+    "lang_raw": "IELTS5.5/iBT72/ TOEIC785/ TOPIK Level 4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 109,
+    "name": "Hanyang University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 110,
+    "name": "Hanyang University",
+    "country": "Korea",
+    "quota_raw": "ERICA Campus: 2 sem. slots (Exclude: Pharmacy, Applied Music, Dance & Performing Arts, Accounting & Tax)        ",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA2.6/4.3",
+    "lang_raw": "IELTS5.5/iBT72/ TOEIC785/ TOPIK Level 4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 111,
+    "name": "Hanyang University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 112,
+    "name": "Hanyang University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 113,
+    "name": "Hanyang University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 114,
+    "name": "Chungnam National University",
+    "country": "Korea",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議Recommend: TOPIK3",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 115,
+    "name": "Chungnam National University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 116,
+    "name": "Sungkyunkwan University",
+    "country": "Korea",
+    "quota_raw": "4 sem. slot",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA2.7/4.3",
+    "lang_raw": "Business Administration majors: iBT80/ IELTS6/ English B2/ TOPIK 3",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 117,
+    "name": "Sungkyunkwan University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 118,
+    "name": "Seoul National University",
+    "country": "Korea",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "UG: GPA2.7/4.3 PG: GPA3.3/4.3",
+    "lang_raw": "建議 Recommend iBT88/IELTS6/ TOPIK5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 119,
+    "name": "Seoul National University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 120,
+    "name": "Seoul National University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 121,
+    "name": "Sogang University",
+    "country": "Korea",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議 Recommend English courses: iBT79/IELTS6.5 Korean courses: TOPIK Level 4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 122,
+    "name": "Sogang University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 123,
+    "name": "Konkuk University",
+    "country": "Korea",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 124,
+    "name": "Konkuk University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 125,
+    "name": "Konkuk University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 126,
+    "name": "Chonnam National University",
+    "country": "Korea",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 127,
+    "name": "Chonnam National University",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 128,
+    "name": "Pohang University of Science and Technology",
+    "country": "Korea",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "iBT79/IELTS6",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 129,
+    "name": "Pohang University of Science and Technology",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 130,
+    "name": "Ewha Womans University",
+    "country": "Korea",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA2.7/4.3",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 131,
+    "name": "Ewha Womans University",
+    "country": "Korea",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 132,
+    "name": "大邱慶北科學技術院",
+    "country": "Korea",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "recommand CEFR B2 (IELTS6 / iBT80)",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 133,
+    "name": "大邱慶北科學技術院",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 134,
+    "name": "大邱慶北科學技術院",
+    "country": "Korea",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 135,
+    "name": "Yonsei University",
+    "country": "Korea",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA2.7/4.3",
+    "lang_raw": "iBT79/IELTS6.5/TOPIK 4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 136,
+    "name": "Yonsei University",
+    "country": "Korea",
+    "quota_raw": "1 sem. slot",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 137,
+    "name": "Universiti Kebangsaan Malaysia (UKM)",
+    "country": "Malaysia",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "iBT79/IELTS6",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 138,
+    "name": "Universiti Kebangsaan Malaysia (UKM)",
+    "country": "Malaysia",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 139,
+    "name": "University of Malaya",
+    "country": "Malaysia",
+    "quota_raw": "1 student",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "Business & Econimcs / Law: iBT 80/IELTS 6/TOEIC 693",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 140,
+    "name": "University of Malaya",
+    "country": "Malaysia",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 141,
+    "name": "Universiti Teknologi Malaysia (UTM)",
+    "country": "Malaysia",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 142,
+    "name": "Universiti Teknologi Malaysia (UTM)",
+    "country": "Malaysia",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 143,
+    "name": "Universiti Tunku Abdul Rahman (UTAR)",
+    "country": "Malaysia",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 144,
+    "name": "Universiti Tunku Abdul Rahman (UTAR)",
+    "country": "Malaysia",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 4.3386146,
+    "lng": 101.139919
+  },
+  {
+    "id": 145,
+    "name": "Universiti Tunku Abdul Rahman (UTAR)",
+    "country": "Malaysia",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 4.3386146,
+    "lng": 101.139919
+  },
+  {
+    "id": 146,
+    "name": "Universiti Tunku Abdul Rahman (UTAR)",
+    "country": "Malaysia",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 4.3386146,
+    "lng": 101.139919
+  },
+  {
+    "id": 147,
+    "name": "Singapore University of Technology and Design (SUTD)",
+    "country": "Singapore",
+    "quota_raw": "Fall: 2/sem. Spring: 2/sem. Summer: 2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": 148,
+    "name": "Singapore University of Technology and Design (SUTD)",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": 149,
+    "name": "Singapore University of Technology and Design (SUTD)",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": 150,
+    "name": "Singapore University of Technology and Design (SUTD)",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  {
+    "id": 151,
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "quota_raw": "6/sem.(excl. Business) ",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA3.0/4.0 no C",
+    "lang_raw": "nan",
+    "lat": 1.2959845,
+    "lng": 103.7766186
+  },
+  {
+    "id": 152,
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.2959845,
+    "lng": 103.7766186
+  },
+  {
+    "id": 153,
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.2959845,
+    "lng": 103.7766186
+  },
+  {
+    "id": 154,
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.2959845,
+    "lng": 103.7766186
+  },
+  {
+    "id": 155,
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "quota_raw": "5/sem. (傳科: 保障1 students)",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.0 no C",
+    "lang_raw": "Students will need to be comfortable in learning and communicating in English.",
+    "lat": 1.2959845,
+    "lng": 103.7766186
+  },
+  {
+    "id": 156,
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "quota_raw": "1/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.0 no C",
+    "lang_raw": "For law: iBT100/IELTS6.5",
+    "lat": 1.2959845,
+    "lng": 103.7766186
+  },
+  {
+    "id": 157,
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.2959845,
+    "lng": 103.7766186
+  },
+  {
+    "id": 158,
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.2959845,
+    "lng": 103.7766186
+  },
+  {
+    "id": 159,
+    "name": "National University of Singapore",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.2959845,
+    "lng": 103.7766186
+  },
+  {
+    "id": 160,
+    "name": "Singapore Management University",
+    "country": "Singapore",
+    "quota_raw": "1/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT93 R22 W22/IELTS7.0 R7.0 W6.5",
+    "lat": 1.296168,
+    "lng": 103.8500437
+  },
+  {
+    "id": 161,
+    "name": "Singapore Management University",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.296168,
+    "lng": 103.8500437
+  },
+  {
+    "id": 162,
+    "name": "Singapore Management University",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.296168,
+    "lng": 103.8500437
+  },
+  {
+    "id": 163,
+    "name": "Singapore Management University",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.296168,
+    "lng": 103.8500437
+  },
+  {
+    "id": 164,
+    "name": "Singapore Management University",
+    "country": "Singapore",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.296168,
+    "lng": 103.8500437
+  },
+  {
+    "id": 165,
+    "name": "Nanyang Technological University",
+    "country": "Singapore",
+    "quota_raw": "6/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "iBT90/IELTS6/ GEPT-中高級 2nd stage",
+    "lat": 1.3484104,
+    "lng": 103.6829332
+  },
+  {
+    "id": 166,
+    "name": "Nanyang Technological University",
+    "country": "Singapore",
+    "quota_raw": "3/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.3484104,
+    "lng": 103.6829332
+  },
+  {
+    "id": 167,
+    "name": "Nanyang Technological University",
+    "country": "Singapore",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 1.3484104,
+    "lng": 103.6829332
+  },
+  {
+    "id": 168,
+    "name": "King Mongkut's University of Technology Thonburi (KMUTT)",
+    "country": "Thailand",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 14.8971921,
+    "lng": 100.83273
+  },
+  {
+    "id": 169,
+    "name": "King Mongkut's University of Technology Thonburi (KMUTT)",
+    "country": "Thailand",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 14.8971921,
+    "lng": 100.83273
+  },
+  {
+    "id": 170,
+    "name": "Kasetsart University",
+    "country": "Thailand",
+    "quota_raw": "20 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT61/IELTS5.5 ",
+    "lat": 13.8482589,
+    "lng": 100.5675435
+  },
+  {
+    "id": 171,
+    "name": "Chiang Mai University",
+    "country": "Thailand",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 18.8009264,
+    "lng": 98.9521552
+  },
+  {
+    "id": 172,
+    "name": "Thammasat University",
+    "country": "Thailand",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT79/IELTS6.5",
+    "lat": 18.3173369,
+    "lng": 99.3996064
+  },
+  {
+    "id": 173,
+    "name": "Thammasat University",
+    "country": "Thailand",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA3.0/43",
+    "lang_raw": "various among facuties/schools",
+    "lat": 18.3173369,
+    "lng": 99.3996064
+  },
+  {
+    "id": 174,
+    "name": "Thammasat University",
+    "country": "Thailand",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 18.3173369,
+    "lng": 99.3996064
+  },
+  {
+    "id": 175,
+    "name": "Thammasat University",
+    "country": "Thailand",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 18.3173369,
+    "lng": 99.3996064
+  },
+  {
+    "id": 176,
+    "name": "Chulalongkorn University",
+    "country": "Thailand",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "iBT79/IELTS6",
+    "lat": 13.7431114,
+    "lng": 100.5328752
+  },
+  {
+    "id": 177,
+    "name": "Chulalongkorn University",
+    "country": "Thailand",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 13.7431114,
+    "lng": 100.5328752
+  },
+  {
+    "id": 178,
+    "name": "Ton Duc Thang University",
+    "country": "Vietnam",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT72/IELTS5.5",
+    "lat": 10.7320052,
+    "lng": 106.6984654
+  },
+  {
+    "id": 179,
+    "name": "Institut TeknoloiSepuluh Nopember (ITS)",
+    "country": "Indonesia",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": -2.4833826,
+    "lng": 117.8902853
+  },
+  {
+    "id": 180,
+    "name": "Universitas Indonesia",
+    "country": "Indonesia",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.225/4.3",
+    "lang_raw": "iBT80/IELTS6.5",
+    "lat": -6.3603157,
+    "lng": 106.8271856
+  },
+  {
+    "id": 181,
+    "name": "Institut Teknologi Bandung (ITB)",
+    "country": "Indonesia",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": -6.8904487,
+    "lng": 107.6103136
+  },
+  {
+    "id": 182,
+    "name": "Indian Institute of Technology Madras (IITM)",
+    "country": "India",
+    "quota_raw": "5 students  ",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3511148,
+    "lng": 78.6677428
+  },
+  {
+    "id": 183,
+    "name": "Indian Institute of Technology Madras (IITM)",
+    "country": "India",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3511148,
+    "lng": 78.6677428
+  },
+  {
+    "id": 184,
+    "name": "Indian Institute of Technology Madras (IITM)",
+    "country": "India",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3511148,
+    "lng": 78.6677428
+  },
+  {
+    "id": 185,
+    "name": "Indian Institute of Technology Bombay(IITB)",
+    "country": "India",
+    "quota_raw": "4 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT95 (writing at least 20)/ IELTS6.5 (no sub-band lower than 6)",
+    "lat": 22.3511148,
+    "lng": 78.6677428
+  },
+  {
+    "id": 186,
+    "name": "Indian Institute of Technology Hyderabad (IITH)",
+    "country": "India",
+    "quota_raw": "3 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3511148,
+    "lng": 78.6677428
+  },
+  {
+    "id": 187,
+    "name": "O.P. Jindal Global University (JGU)",
+    "country": "India",
+    "quota_raw": "4 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 188,
+    "name": "Bilkent Univesity",
+    "country": "Turkey",
+    "quota_raw": "8 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT79/IELTS6.5/ GEPT中高級複試/ TOEIC785+SW240",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 189,
+    "name": "Bilkent Univesity",
+    "country": "Turkey",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 39.294076,
+    "lng": 35.2316631
+  },
+  {
+    "id": 190,
+    "name": "Bilkent Univesity",
+    "country": "Turkey",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 39.294076,
+    "lng": 35.2316631
+  },
+  {
+    "id": 191,
+    "name": "Sabanci University",
+    "country": "Turkey",
+    "quota_raw": "8 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議Recommend: iBT80",
+    "lat": 40.8927159,
+    "lng": 29.3786332
+  },
+  {
+    "id": 192,
+    "name": "Sabanci University",
+    "country": "Turkey",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 40.8927159,
+    "lng": 29.3786332
+  },
+  {
+    "id": 193,
+    "name": "Sabanci University",
+    "country": "Turkey",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 40.8927159,
+    "lng": 29.3786332
+  },
+  {
+    "id": 194,
+    "name": "Sabanci University",
+    "country": "Turkey",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 40.8927159,
+    "lng": 29.3786332
+  },
+  {
+    "id": 195,
+    "name": "Koç University",
+    "country": "Turkey",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "UG: GPA2.2/4.0 PG: GPA2.5/4.0",
+    "lang_raw": "iBT80/IELTS6.5",
+    "lat": 41.2060623,
+    "lng": 29.0738014
+  },
+  {
+    "id": 196,
+    "name": "Koç University",
+    "country": "Turkey",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 41.2060623,
+    "lng": 29.0738014
+  },
+  {
+    "id": 197,
+    "name": "Koç University",
+    "country": "Turkey",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 41.2060623,
+    "lng": 29.0738014
+  },
+  {
+    "id": 198,
+    "name": "Hong Kong Baptist University",
+    "country": "Hong Kong",
+    "quota_raw": "2/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA2.7/4.3",
+    "lang_raw": "iBT79/IELTS6",
+    "lat": 22.337988,
+    "lng": 114.1826259
+  },
+  {
+    "id": 199,
+    "name": "Hong Kong Baptist University",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.337988,
+    "lng": 114.1826259
+  },
+  {
+    "id": 200,
+    "name": "Hong Kong Baptist University",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.337988,
+    "lng": 114.1826259
+  },
+  {
+    "id": 201,
+    "name": "Hong Kong Baptist University",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.337988,
+    "lng": 114.1826259
+  },
+  {
+    "id": 202,
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "3 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT79/IELTS6.5/學測英文15級分",
+    "lat": 22.3400205,
+    "lng": 114.1697162
+  },
+  {
+    "id": 203,
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3400205,
+    "lng": 114.1697162
+  },
+  {
+    "id": 204,
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3400205,
+    "lng": 114.1697162
+  },
+  {
+    "id": 205,
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3400205,
+    "lng": 114.1697162
+  },
+  {
+    "id": 206,
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3400205,
+    "lng": 114.1697162
+  },
+  {
+    "id": 207,
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3400205,
+    "lng": 114.1697162
+  },
+  {
+    "id": 208,
+    "name": "City University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3400205,
+    "lng": 114.1697162
+  },
+  {
+    "id": 209,
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "iBT93/IELTS6.5",
+    "lat": 22.2826975,
+    "lng": 114.138455
+  },
+  {
+    "id": 210,
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.2826975,
+    "lng": 114.138455
+  },
+  {
+    "id": 211,
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.2826975,
+    "lng": 114.138455
+  },
+  {
+    "id": 212,
+    "name": "The University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.2826975,
+    "lng": 114.138455
+  },
+  {
+    "id": 213,
+    "name": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong",
+    "quota_raw": "Fall: 2 students Spring: 3 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT80/IELTS6",
+    "lat": 22.3044867,
+    "lng": 114.1796935
+  },
+  {
+    "id": 214,
+    "name": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3044867,
+    "lng": 114.1796935
+  },
+  {
+    "id": 215,
+    "name": "The Hong Kong Polytechnic University",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3044867,
+    "lng": 114.1796935
+  },
+  {
+    "id": 216,
+    "name": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3358031,
+    "lng": 114.2659088
+  },
+  {
+    "id": 217,
+    "name": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3358031,
+    "lng": 114.2659088
+  },
+  {
+    "id": 218,
+    "name": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3358031,
+    "lng": 114.2659088
+  },
+  {
+    "id": 219,
+    "name": "The Hong Kong University of Science and Technology",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.3358031,
+    "lng": 114.2659088
+  },
+  {
+    "id": 220,
+    "name": "The Chinese University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "GPA3.23/4.30",
+    "lang_raw": "iBT80/IELTS6",
+    "lat": 22.4201838,
+    "lng": 114.2079145
+  },
+  {
+    "id": 221,
+    "name": "The Chinese University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.4201838,
+    "lng": 114.2079145
+  },
+  {
+    "id": 222,
+    "name": "The Chinese University of Hong Kong",
+    "country": "Hong Kong",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 22.4201838,
+    "lng": 114.2079145
+  },
+  {
+    "id": 223,
+    "name": "Universiti Brunei Darussalam (UBD)",
+    "country": "Brunei",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA2.5/4.3",
+    "lang_raw": "iBT79/IELTS6",
+    "lat": 4.4137155,
+    "lng": 114.5653908
+  },
+  {
+    "id": 224,
+    "name": "University of Vienna",
+    "country": "Austria",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT80/IELTS6/German B2",
+    "lat": 48.2131278,
+    "lng": 16.3606855
+  },
+  {
+    "id": 225,
+    "name": "University of Vienna",
+    "country": "Austria",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.2131278,
+    "lng": 16.3606855
+  },
+  {
+    "id": 226,
+    "name": "Graz University of Technology",
+    "country": "Austria",
+    "quota_raw": "6 sem. slots      ",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT75/IELTS6/ TOEIC785+SW310/ German B2",
+    "lat": 47.0582807,
+    "lng": 15.4602462
+  },
+  {
+    "id": 227,
+    "name": "Graz University of Technology",
+    "country": "Austria",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 47.0582807,
+    "lng": 15.4602462
+  },
+  {
+    "id": 228,
+    "name": "Universite libre de Bruxelles (ULB)",
+    "country": "Belgium",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議法語B1以上Recommend French: B1",
+    "lat": 50.6402809,
+    "lng": 4.6667145
+  },
+  {
+    "id": 229,
+    "name": "Universite libre de Bruxelles (ULB)",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 50.6402809,
+    "lng": 4.6667145
+  },
+  {
+    "id": 230,
+    "name": "Universite libre de Bruxelles (ULB)",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 50.6402809,
+    "lng": 4.6667145
+  },
+  {
+    "id": 231,
+    "name": "Universite libre de Bruxelles (ULB)",
+    "country": "Belgium",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議英文B2以上 Recommend English: B2",
+    "lat": 50.6402809,
+    "lng": 4.6667145
+  },
+  {
+    "id": 232,
+    "name": "Universite libre de Bruxelles (ULB)",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 50.6402809,
+    "lng": 4.6667145
+  },
+  {
+    "id": 233,
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "UG: iBT72/IELTS5.5 PG: iBT95/IELTS7",
+    "lat": 50.8057129,
+    "lng": 3.2915374
+  },
+  {
+    "id": 234,
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 235,
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 236,
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT94 (with no subscore under 22)/ IELTS7 (with no subscore under 6.5)",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 237,
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 238,
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 239,
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "quota_raw": "8 sem. slots (UG: 4 / PG: 4)",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "Recommend iBT79/IELTS6.5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 240,
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 241,
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 242,
+    "name": "University of Antwerp",
+    "country": "Belgium",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT79/IELTS6.5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 243,
+    "name": "University of Antwerp",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 244,
+    "name": "University of Antwerp",
+    "country": "Belgium",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 245,
+    "name": "Brno University of Technology",
+    "country": "Czech Republic",
+    "quota_raw": "10 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 246,
+    "name": "Brno University of Technology",
+    "country": "Czech Republic",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 247,
+    "name": "Brno University of Technology",
+    "country": "Czech Republic",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 248,
+    "name": "Masaryk University",
+    "country": "Czech Republic",
+    "quota_raw": "3/semester",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA2.7/4.3",
+    "lang_raw": "iBT72/IELTS5.5/ TOEIC785",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 249,
+    "name": "Masaryk University",
+    "country": "Czech Republic",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 250,
+    "name": "Masaryk University",
+    "country": "Czech Republic",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 251,
+    "name": "Masaryk University",
+    "country": "Czech Republic",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 252,
+    "name": "University of Ostrava",
+    "country": "Czech Republic",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA2.2/4.3",
+    "lang_raw": "iBT65/IELTS5.5/ TOEIC605",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 253,
+    "name": "University of Ostrava",
+    "country": "Czech Republic",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 254,
+    "name": "Czech Technical University in Prague (CTU)",
+    "country": "Czech Republic",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT72/IELTS5.5 TOEIC Reading 385 Listening 400",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 255,
+    "name": "Czech Technical University in Prague (CTU)",
+    "country": "Czech Republic",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 256,
+    "name": "Palacký University Olomouc",
+    "country": "Czech Republic",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT70/IELTS5.5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 257,
+    "name": "Palacký University Olomouc",
+    "country": "Czech Republic",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 258,
+    "name": "Palacký University Olomouc",
+    "country": "Czech Republic",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 259,
+    "name": "Charles University",
+    "country": "Czech Republic",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "IELTS 5.5/ iBT 72",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 260,
+    "name": "Technical University of Denmark",
+    "country": "Denmark",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT72/IELTS5.5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 261,
+    "name": "University of Southern Denmark",
+    "country": "Denmark",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "TOEFL88 / IELTS6.5/ a signed Language Requirement Form from the student’s home university",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 262,
+    "name": "University of Southern Denmark",
+    "country": "Denmark",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 263,
+    "name": "University of Southern Denmark",
+    "country": "Denmark",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 264,
+    "name": "University of Southampton",
+    "country": "UK",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA3.3/4.3",
+    "lang_raw": "iBT 92/IELTS6.5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 265,
+    "name": "University of Southampton",
+    "country": "UK",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 266,
+    "name": "University of Southampton",
+    "country": "UK",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 267,
+    "name": "Hanken School of Economics",
+    "country": "Finland",
+    "quota_raw": "1/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT87/IELTS6.5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 268,
+    "name": "Hanken School of Economics",
+    "country": "Finland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 269,
+    "name": "Hanken School of Economics",
+    "country": "Finland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 270,
+    "name": "University of Jyväskylä",
+    "country": "Finland",
+    "quota_raw": "4/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議至少B1，最好B2 Recommend: at least B1, preferably B2",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 271,
+    "name": "University of Jyväskylä",
+    "country": "Finland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 272,
+    "name": "University of Jyväskylä",
+    "country": "Finland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 273,
+    "name": "JAMK University of Applied Sciences",
+    "country": "Finland",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "English B1",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 274,
+    "name": "Y Schools",
+    "country": "France",
+    "quota_raw": "5 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT80/IELTS6.5 ",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 275,
+    "name": "IMT Mines Albi-Carmaux",
+    "country": "France",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT80/IELTS6/ TOEIC750/ French B2",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 276,
+    "name": "IMT Mines Albi-Carmaux",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 277,
+    "name": "IMT Mines Albi-Carmaux",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 278,
+    "name": "IMT Mines Albi-Carmaux",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 279,
+    "name": "University of Rennes 1",
+    "country": "France",
+    "quota_raw": "5/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT72/IELTS5.5",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 280,
+    "name": "University of Rennes 1",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 281,
+    "name": "University of Rennes 1",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 282,
+    "name": "EM Normandie",
+    "country": "France",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "UG: TOEIC750 IELTS5/iBT72",
+    "lat": 49.4894631,
+    "lng": 0.1249885
+  },
+  {
+    "id": 283,
+    "name": "EM Normandie",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 49.4894631,
+    "lng": 0.1249885
+  },
+  {
+    "id": 284,
+    "name": "EM Normandie",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "PG: TOEIC790 IELTS5.5/iBT83",
+    "lat": 49.4894631,
+    "lng": 0.1249885
+  },
+  {
+    "id": 285,
+    "name": "IPAG Business School",
+    "country": "France",
+    "quota_raw": "4 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議CEFR英文B2以上",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 286,
+    "name": "IPAG Business School",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 287,
+    "name": "IPAG Business School",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 288,
+    "name": "SKEMA Business School",
+    "country": "France",
+    "quota_raw": "8 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT79/IELTS6.5/ TOEIC830",
+    "lat": 43.613156,
+    "lng": 7.0563958
+  },
+  {
+    "id": 289,
+    "name": "CY Cergy Paris University-CY Tech",
+    "country": "France",
+    "quota_raw": "6 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT80/IELTS6.5",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 290,
+    "name": "CY Cergy Paris University-CY Tech",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 291,
+    "name": "Institut Mines-Télécom Business School (IMT-BS)",
+    "country": "France",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT79/IELTS6.5",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 292,
+    "name": "Institut Mines-Télécom Business School (IMT-BS)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 293,
+    "name": "Institut Mines-Télécom Business School (IMT-BS)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 294,
+    "name": "ECAM LaSalle",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "Recommend  French course: French B1 English course: IELTS5.5/iBT72/TOEIC750",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 295,
+    "name": "Université Jean Moulin Lyon 3",
+    "country": "France",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT80 (no section below 20)/IELTS6.5 (no sub-band below 6)/DELF B1/ TOEIC(L/S/R/W)1020",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 296,
+    "name": "Université Jean Moulin Lyon 3",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 297,
+    "name": "Université Paris-Saclay",
+    "country": "France",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議 recommend  English/French: B2 (depending on the study language) Economics and Law: French B2 mandatory",
+    "lat": 48.7121501,
+    "lng": 2.1735087
+  },
+  {
+    "id": 298,
+    "name": "Université Paris-Saclay",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7121501,
+    "lng": 2.1735087
+  },
+  {
+    "id": 299,
+    "name": "Telecom Paris",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "English course: iBT71/TOEIC795/IELTS5.5 French course: French B2 (strongly advised)",
+    "lat": 48.7131108,
+    "lng": 2.199685
+  },
+  {
+    "id": 300,
+    "name": "Telecom Paris",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7131108,
+    "lng": 2.199685
+  },
+  {
+    "id": 301,
+    "name": "Telecom Paris",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7131108,
+    "lng": 2.199685
+  },
+  {
+    "id": 302,
+    "name": "École des mines de Saint-Étienne (EMSE)",
+    "country": "France",
+    "quota_raw": "4/sem.",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT72/IELTS5.5/ French B1",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 303,
+    "name": "École des mines de Saint-Étienne (EMSE)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 304,
+    "name": "École des mines de Saint-Étienne (EMSE)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 305,
+    "name": "IMT Atlantique",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "French B2 or iBT72/IELTS5.5\t",
+    "lat": 48.3578233,
+    "lng": -4.570741
+  },
+  {
+    "id": 306,
+    "name": "Institut Polytechnique de Paris",
+    "country": "France",
+    "quota_raw": "4 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.3/4.3",
+    "lang_raw": "iBT94/IELTS5.5/French B2",
+    "lat": 48.7139028,
+    "lng": 2.2141075
+  },
+  {
+    "id": 307,
+    "name": "Institut Polytechnique de Paris",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7139028,
+    "lng": 2.2141075
+  },
+  {
+    "id": 308,
+    "name": "Jean Monnet University, Saint Etienne",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "French or English B2",
+    "lat": 45.4225884,
+    "lng": 4.4320534
+  },
+  {
+    "id": 309,
+    "name": "Jean Monnet University, Saint Etienne",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 45.4225884,
+    "lng": 4.4320534
+  },
+  {
+    "id": 310,
+    "name": "Jean Monnet University, Saint Etienne",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 45.4225884,
+    "lng": 4.4320534
+  },
+  {
+    "id": 311,
+    "name": "University of Bordeaux",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "法文B1 or iBT72/IELTS5.5",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 312,
+    "name": "University of Bordeaux",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 313,
+    "name": "University of Bordeaux",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 314,
+    "name": "INSA Strasbourg",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "法文French B1+30hr密集法文課Intensive French Course or 法文French B2        ",
+    "lat": 48.5817042,
+    "lng": 7.7646555
+  },
+  {
+    "id": 315,
+    "name": "INSA Strasbourg",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.5817042,
+    "lng": 7.7646555
+  },
+  {
+    "id": 316,
+    "name": "INSA Strasbourg",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.5817042,
+    "lng": 7.7646555
+  },
+  {
+    "id": 317,
+    "name": "Rennes School of Business",
+    "country": "France",
+    "quota_raw": "5 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT72/IELTS5.5 /TOEIC750",
+    "lat": 48.1274799,
+    "lng": -1.6903697
+  },
+  {
+    "id": 318,
+    "name": "Rennes School of Business",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.1274799,
+    "lng": -1.6903697
+  },
+  {
+    "id": 319,
+    "name": "Rennes School of Business",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.1274799,
+    "lng": -1.6903697
+  },
+  {
+    "id": 320,
+    "name": "Rennes School of Business",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.1274799,
+    "lng": -1.6903697
+  },
+  {
+    "id": 321,
+    "name": "Rennes School of Business",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.1274799,
+    "lng": -1.6903697
+  },
+  {
+    "id": 322,
+    "name": "Rennes School of Business",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.1274799,
+    "lng": -1.6903697
+  },
+  {
+    "id": 323,
+    "name": "Rennes School of Business",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.1274799,
+    "lng": -1.6903697
+  },
+  {
+    "id": 324,
+    "name": "Université Toulouse III – Paul Sabatier (UPS)",
+    "country": "France",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 325,
+    "name": "Université Toulouse III – Paul Sabatier (UPS)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 326,
+    "name": "KEDGE Business School",
+    "country": "France",
+    "quota_raw": "8 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT79/IELTS6/ TOEIC785",
+    "lat": 44.7964286,
+    "lng": -0.6008878
+  },
+  {
+    "id": 327,
+    "name": "KEDGE Business School",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 44.7964286,
+    "lng": -0.6008878
+  },
+  {
+    "id": 328,
+    "name": "KEDGE Business School",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 44.7964286,
+    "lng": -0.6008878
+  },
+  {
+    "id": 329,
+    "name": "Université Paris-Saclay",
+    "country": "France",
+    "quota_raw": "5 sem. slots (2 of them for students of the College of EE)",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "Courses taught in French: French B1 Courses taught in English: iBT72/IELTS5.5/TOEIC750",
+    "lat": 48.7121501,
+    "lng": 2.1735087
+  },
+  {
+    "id": 330,
+    "name": "Université Paris-Saclay",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7121501,
+    "lng": 2.1735087
+  },
+  {
+    "id": 331,
+    "name": "Université Paris-Saclay",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7121501,
+    "lng": 2.1735087
+  },
+  {
+    "id": 332,
+    "name": "Burgundy School of Business",
+    "country": "France",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "IELTS6/TOEIC750 iBT80/CEFR B1 or TCF 4/French B2",
+    "lat": 45.730822,
+    "lng": 4.873084
+  },
+  {
+    "id": 333,
+    "name": "Burgundy School of Business",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 45.730822,
+    "lng": 4.873084
+  },
+  {
+    "id": 334,
+    "name": "Burgundy School of Business",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 45.730822,
+    "lng": 4.873084
+  },
+  {
+    "id": 335,
+    "name": "University Paris-Est Créteil (UPEC)",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "法檢 French B2/ iBT87/IELTS6/English B1",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 336,
+    "name": "University Paris-Est Créteil (UPEC)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 337,
+    "name": "University Paris-Est Créteil (UPEC)",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 338,
+    "name": "University Paris-Est Créteil (UPEC)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 339,
+    "name": "University Paris-Est Créteil (UPEC)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 340,
+    "name": "Institut Polytechnique de Paris",
+    "country": "France",
+    "quota_raw": "2 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "English (min. B2 CEFR level) or/and French (min. B2 CEFR level) ",
+    "lat": 48.7139028,
+    "lng": 2.2141075
+  },
+  {
+    "id": 341,
+    "name": "University of Technology of",
+    "country": "France",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "English A2 (iBT31/ IELTS4)",
+    "lat": 48.269078,
+    "lng": 4.0664959
+  },
+  {
+    "id": 342,
+    "name": "University of Technology of",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.269078,
+    "lng": 4.0664959
+  },
+  {
+    "id": 343,
+    "name": "University of Technology of",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.269078,
+    "lng": 4.0664959
+  },
+  {
+    "id": 344,
+    "name": "Institut Supérieur d’Electronique de Paris (ISEP)",
+    "country": "France",
+    "quota_raw": "4 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT79/IELTS6.5",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 345,
+    "name": "Institut Supérieur d’Electronique de Paris (ISEP)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 346,
+    "name": "Institut Supérieur d’Electronique de Paris (ISEP)",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 347,
+    "name": "Sup'Biotech Paris",
+    "country": "France",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "UG: iBT70/IELTS6 PG: iBT80/IELTS6.5",
+    "lat": 48.7974272,
+    "lng": 2.3574614
+  },
+  {
+    "id": 348,
+    "name": "Sup'Biotech Paris",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7974272,
+    "lng": 2.3574614
+  },
+  {
+    "id": 349,
+    "name": "Sup'Biotech Paris",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7974272,
+    "lng": 2.3574614
+  },
+  {
+    "id": 350,
+    "name": "Sup'Biotech Paris",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7974272,
+    "lng": 2.3574614
+  },
+  {
+    "id": 351,
+    "name": "INSA Toulouse",
+    "country": "France",
+    "quota_raw": "8 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議英文B2 或法文B1以上 Recommended English B2 or French B1",
+    "lat": 43.5697775,
+    "lng": 1.4683035
+  },
+  {
+    "id": 352,
+    "name": "INSA Toulouse",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 43.5697775,
+    "lng": 1.4683035
+  },
+  {
+    "id": 353,
+    "name": "INSA Toulouse",
+    "country": "France",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 43.5697775,
+    "lng": 1.4683035
+  },
+  {
+    "id": 354,
+    "name": "JUNIA",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "French or English B1",
+    "lat": 50.6339505,
+    "lng": 3.048747
+  },
+  {
+    "id": 355,
+    "name": "University of Technology of Troyes",
+    "country": "France",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.269078,
+    "lng": 4.0664959
+  },
+  {
+    "id": 356,
+    "name": "ESME School of Engineering",
+    "country": "France",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.603354,
+    "lng": 1.8883335
+  },
+  {
+    "id": 357,
+    "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+    "country": "Germany",
+    "quota_raw": "4 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "English B2",
+    "lat": 49.458322,
+    "lng": 11.08546
+  },
+  {
+    "id": 358,
+    "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 49.458322,
+    "lng": 11.08546
+  },
+  {
+    "id": 359,
+    "name": "Reutlingen University",
+    "country": "Germany",
+    "quota_raw": "24 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT72/IELTS5.5",
+    "lat": 48.4818765,
+    "lng": 9.186824
+  },
+  {
+    "id": 360,
+    "name": "Reutlingen University",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.4818765,
+    "lng": 9.186824
+  },
+  {
+    "id": 361,
+    "name": "Saarland University",
+    "country": "Germany",
+    "quota_raw": "2 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "German B1",
+    "lat": 49.2542421,
+    "lng": 7.0415117
+  },
+  {
+    "id": 362,
+    "name": "Saarland University",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 49.2542421,
+    "lng": 7.0415117
+  },
+  {
+    "id": 363,
+    "name": "University of Stuttgart",
+    "country": "Germany",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA2.0/4.3",
+    "lang_raw": "Take courses in German: 德檢C1 or 德檢A2+赴該校上密集德文課程 German C1 or German A2 + intensive German course Take courses in English: iBT72/IELTS5.5+ intensive German course",
+    "lat": 48.7133801,
+    "lng": 9.212073
+  },
+  {
+    "id": 364,
+    "name": "University of Stuttgart",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7133801,
+    "lng": 9.212073
+  },
+  {
+    "id": 365,
+    "name": "University of Stuttgart",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7133801,
+    "lng": 9.212073
+  },
+  {
+    "id": 366,
+    "name": "University of Stuttgart",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.7133801,
+    "lng": 9.212073
+  },
+  {
+    "id": 367,
+    "name": "University of Augsburg",
+    "country": "Germany",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "德檢German B2/iBT72/IELTS5.5/TOEIC Listening400+Reading 385",
+    "lat": 48.3554077,
+    "lng": 10.9043357
+  },
+  {
+    "id": 368,
+    "name": "University of Augsburg",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.3554077,
+    "lng": 10.9043357
+  },
+  {
+    "id": 369,
+    "name": "University of Augsburg",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.3554077,
+    "lng": 10.9043357
+  },
+  {
+    "id": 370,
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "TestDaF 4/iBT72/ IELTS5.5",
+    "lat": 50.7791732,
+    "lng": 6.0689207
+  },
+  {
+    "id": 371,
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "quota_raw": "5 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 50.7791732,
+    "lng": 6.0689207
+  },
+  {
+    "id": 372,
+    "name": "RWTH Aachen University",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 50.7791732,
+    "lng": 6.0689207
+  },
+  {
+    "id": 373,
+    "name": "Darmstadt University of Applied Sciences (h_da)",
+    "country": "Germany",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "Recommend iBT72/IELTS5.5",
+    "lat": 51.1638175,
+    "lng": 10.4478313
+  },
+  {
+    "id": 374,
+    "name": "Darmstadt University of Applied Sciences (h_da)",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 51.1638175,
+    "lng": 10.4478313
+  },
+  {
+    "id": 375,
+    "name": "SRH University Heidelberg",
+    "country": "Germany",
+    "quota_raw": "Business: 2 semester slots Engineering & Architecture: 2 semester slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "德檢German B2 or iBT79/IELTS6.5",
+    "lat": 49.4128707,
+    "lng": 8.6531575
+  },
+  {
+    "id": 376,
+    "name": "SRH University Heidelberg",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 49.4128707,
+    "lng": 8.6531575
+  },
+  {
+    "id": 377,
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "quota_raw": "7 sem. slot",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "UG: German or English B1 (iBT42/IELTS4.5/TOEIC L275 R275 S120 W120) PG: English B1 (iBT42/IELTS4.5/TOEIC L275 R275 S120 W120)",
+    "lat": 48.2654976,
+    "lng": 11.6692249
+  },
+  {
+    "id": 378,
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.2654976,
+    "lng": 11.6692249
+  },
+  {
+    "id": 379,
+    "name": "Technical University of Munich",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 48.2654976,
+    "lng": 11.6692249
+  },
+  {
+    "id": 380,
+    "name": "Heidelberg University",
+    "country": "Germany",
+    "quota_raw": "3/sem. (Molecular Biosciences: up to 1 student)",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA3.3/4.3",
+    "lang_raw": "German B2 or iBT90/IELTS6.5 for Molecular Biosciences only",
+    "lat": 49.4186003,
+    "lng": 8.6692402
+  },
+  {
+    "id": 381,
+    "name": "Heidelberg University",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 49.4186003,
+    "lng": 8.6692402
+  },
+  {
+    "id": 382,
+    "name": "Heidelberg University",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 49.4186003,
+    "lng": 8.6692402
+  },
+  {
+    "id": 383,
+    "name": "Universität Mannheim",
+    "country": "Germany",
+    "quota_raw": "5 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "德檢German B2 or iBT80/IETLS6.0",
+    "lat": 49.4832445,
+    "lng": 8.4645749
+  },
+  {
+    "id": 384,
+    "name": "Universität Mannheim",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 49.4832445,
+    "lng": 8.4645749
+  },
+  {
+    "id": 385,
+    "name": "Universität Mannheim",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 49.4832445,
+    "lng": 8.4645749
+  },
+  {
+    "id": 386,
+    "name": "Technische Universität Berlin (TU Berlin)",
+    "country": "Germany",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "德文B2/iBT87/ IELTS5/TOEIC605",
+    "lat": 51.1638175,
+    "lng": 10.4478313
+  },
+  {
+    "id": 387,
+    "name": "Technical University of Dresden",
+    "country": "Germany",
+    "quota_raw": "5 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "German or English B1",
+    "lat": 51.1638175,
+    "lng": 10.4478313
+  },
+  {
+    "id": 388,
+    "name": "Technical University of Dresden",
+    "country": "Germany",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 51.1638175,
+    "lng": 10.4478313
+  },
+  {
+    "id": 389,
+    "name": "Eötvös Loránd University (ELTE)",
+    "country": "Hungary",
+    "quota_raw": "4 sem. slot",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議 English B2",
+    "lat": 47.1817585,
+    "lng": 19.5060937
+  },
+  {
+    "id": 390,
+    "name": "Eötvös Loránd University (ELTE)",
+    "country": "Hungary",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 47.1817585,
+    "lng": 19.5060937
+  },
+  {
+    "id": 391,
+    "name": "Radboud University",
+    "country": "The Netherlands",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "UG: iBT80/IELTS6/ TOEIC670(LR)260(SW)  PG: iBT90(sub scores: min. 22)/IELTS6.5(sub scores: min. 6.0, writing sub score: min. 6.5)/ TOEIC720(LR)310(SW)",
+    "lat": 51.8215173,
+    "lng": 5.8634329
+  },
+  {
+    "id": 392,
+    "name": "Radboud University",
+    "country": "The Netherlands",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 51.8215173,
+    "lng": 5.8634329
+  },
+  {
+    "id": 393,
+    "name": "University of Groningen",
+    "country": "The Netherlands",
+    "quota_raw": "4 sem. slot",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "UG: iBT80(S&W20+)/IELTS6(S6+,W5.5+)",
+    "lat": 53.2194416,
+    "lng": 6.5629863
+  },
+  {
+    "id": 394,
+    "name": "University of Groningen",
+    "country": "The Netherlands",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 53.2194416,
+    "lng": 6.5629863
+  },
+  {
+    "id": 395,
+    "name": "University of Groningen",
+    "country": "The Netherlands",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "PG: iBT90(S20+, W24+)/IELTS6.5(S6+,W6.5+)",
+    "lat": 53.2194416,
+    "lng": 6.5629863
+  },
+  {
+    "id": 396,
+    "name": "University of Groningen",
+    "country": "The Netherlands",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 53.2194416,
+    "lng": 6.5629863
+  },
+  {
+    "id": 397,
+    "name": "University of Twente",
+    "country": "The Netherlands",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT80/IELTS6/ TOEIC670(with S&W and L&R)",
+    "lat": 52.2433268,
+    "lng": 6.8509157
+  },
+  {
+    "id": 398,
+    "name": "University of Twente",
+    "country": "The Netherlands",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 52.2433268,
+    "lng": 6.8509157
+  },
+  {
+    "id": 399,
+    "name": "University of Warsaw",
+    "country": "Poland",
+    "quota_raw": "8 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "B2: 波蘭文或英文Polish or English (iBT87/IELTS6)",
+    "lat": 52.2216394,
+    "lng": 21.007377
+  },
+  {
+    "id": 400,
+    "name": "University of Warsaw",
+    "country": "Poland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 52.2216394,
+    "lng": 21.007377
+  },
+  {
+    "id": 401,
+    "name": "University of Warsaw",
+    "country": "Poland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 52.2216394,
+    "lng": 21.007377
+  },
+  {
+    "id": 402,
+    "name": "University of Warsaw",
+    "country": "Poland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 52.2216394,
+    "lng": 21.007377
+  },
+  {
+    "id": 403,
+    "name": "University of Warsaw",
+    "country": "Poland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 52.2216394,
+    "lng": 21.007377
+  },
+  {
+    "id": 404,
+    "name": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 59.2016758,
+    "lng": 17.6203201
+  },
+  {
+    "id": 405,
+    "name": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 59.2016758,
+    "lng": 17.6203201
+  },
+  {
+    "id": 406,
+    "name": "KTH Royal Institute of Technology",
+    "country": "Sweden",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 59.2016758,
+    "lng": 17.6203201
+  },
+  {
+    "id": 407,
+    "name": "Chalmers University of Technology",
+    "country": "Sweden",
+    "quota_raw": "Fall: 10 sem. slots Spring: 10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "recommend English B2",
+    "lat": 57.6897462,
+    "lng": 11.9765259
+  },
+  {
+    "id": 408,
+    "name": "Chalmers University of Technology",
+    "country": "Sweden",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 57.6897462,
+    "lng": 11.9765259
+  },
+  {
+    "id": 409,
+    "name": "Chalmers University of Technology",
+    "country": "Sweden",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 57.6897462,
+    "lng": 11.9765259
+  },
+  {
+    "id": 410,
+    "name": "Linköping University",
+    "country": "Sweden",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 58.3977911,
+    "lng": 15.5754544
+  },
+  {
+    "id": 411,
+    "name": "Linköping University",
+    "country": "Sweden",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 58.3977911,
+    "lng": 15.5754544
+  },
+  {
+    "id": 412,
+    "name": "Linköping University",
+    "country": "Sweden",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 58.3977911,
+    "lng": 15.5754544
+  },
+  {
+    "id": 413,
+    "name": "Zurich University of Applied Science",
+    "country": "Switzerland",
+    "quota_raw": "UG: 6 sem. slots PG: 2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "TOEFL IBT: 83  (spoken min. score 18) IELTS: 5.5 ",
+    "lat": 46.7985624,
+    "lng": 8.2319736
+  },
+  {
+    "id": 414,
+    "name": "Zurich University of Applied Science",
+    "country": "Switzerland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.7985624,
+    "lng": 8.2319736
+  },
+  {
+    "id": 415,
+    "name": "Zurich University of Applied Science",
+    "country": "Switzerland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.7985624,
+    "lng": 8.2319736
+  },
+  {
+    "id": 416,
+    "name": "Zurich University of Applied Science",
+    "country": "Switzerland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.7985624,
+    "lng": 8.2319736
+  },
+  {
+    "id": 417,
+    "name": "Zurich University of Applied Science",
+    "country": "Switzerland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.7985624,
+    "lng": 8.2319736
+  },
+  {
+    "id": 418,
+    "name": "Swiss Federal Institute of Technology in Zurich",
+    "country": "Switzerland",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "Recommend iBT72/IELTS5.5",
+    "lat": 46.7985624,
+    "lng": 8.2319736
+  },
+  {
+    "id": 419,
+    "name": "Swiss Federal Institute of Technology in Zurich",
+    "country": "Switzerland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.7985624,
+    "lng": 8.2319736
+  },
+  {
+    "id": 420,
+    "name": "Swiss Federal Institute of Technology in Zurich",
+    "country": "Switzerland",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 46.7985624,
+    "lng": 8.2319736
+  },
+  {
+    "id": 421,
+    "name": "University of Agder",
+    "country": "Norway",
+    "quota_raw": "10 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議 Recommend above: 英文B2以上",
+    "lat": 58.1630985,
+    "lng": 8.0014426
+  },
+  {
+    "id": 422,
+    "name": "Università di Padova",
+    "country": "Italy",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "義大利文A2/ iBT42/IELTS4",
+    "lat": 45.4066496,
+    "lng": 11.8774407
+  },
+  {
+    "id": 423,
+    "name": "Università di Padova",
+    "country": "Italy",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 45.4066496,
+    "lng": 11.8774407
+  },
+  {
+    "id": 424,
+    "name": "Università di Padova",
+    "country": "Italy",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "義大利文A2/ iBT42/IELTS4",
+    "lat": 45.4066496,
+    "lng": 11.8774407
+  },
+  {
+    "id": 425,
+    "name": "Università di Padova",
+    "country": "Italy",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 45.4066496,
+    "lng": 11.8774407
+  },
+  {
+    "id": 426,
+    "name": "University of Brescia",
+    "country": "Italy",
+    "quota_raw": "6 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "IELTS 4.5/iBT50",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 427,
+    "name": "University of Brescia",
+    "country": "Italy",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 428,
+    "name": "Politecnico di Milano (Polimi)",
+    "country": "Italy",
+    "quota_raw": "3 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議 Recommend 義大利文B1 and iBT72/IELTS5.5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 429,
+    "name": "Politecnico di Milano (Polimi)",
+    "country": "Italy",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 430,
+    "name": "Politecnico di Milano (Polimi)",
+    "country": "Italy",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 431,
+    "name": "University of Parma (UNIPR)",
+    "country": "Italy",
+    "quota_raw": "10 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "義大利文A2/ iBT42/IELTS4",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 432,
+    "name": "University of Parma (UNIPR)",
+    "country": "Italy",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 433,
+    "name": "Vilnius Gediminas Technical University (VGTU)",
+    "country": "Lithuania",
+    "quota_raw": "2/semester",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "IELTS 5.5/TOEFL iBT 72/TOEIC 785",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 434,
+    "name": "Vilnius Gediminas Technical University (VGTU)",
+    "country": "Lithuania",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 435,
+    "name": "Vilnius University",
+    "country": "Lithuania",
+    "quota_raw": "6 sem. slot",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT72/IELTS5.5/TOEIC785",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 436,
+    "name": "Universidad de Sevilla",
+    "country": "Spain",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 437,
+    "name": "Universidad Carlos III de Madrid (UC3M)",
+    "country": "Spain",
+    "quota_raw": "1/sem",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "建議英文或西文B2以上",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 438,
+    "name": "Universidad Carlos III de Madrid (UC3M)",
+    "country": "Spain",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 439,
+    "name": "Universidad Carlos III de Madrid (UC3M)",
+    "country": "Spain",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 440,
+    "name": "Universidad Carlos III de Madrid (UC3M)",
+    "country": "Spain",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 441,
+    "name": "Universidad Carlos III de Madrid (UC3M)",
+    "country": "Spain",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 442,
+    "name": "Universitat de Barcelona",
+    "country": "Spain",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "英文或西文B1以上 (iBT42/IELTS4 /TOEIC550)",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 443,
+    "name": "Universitat Autònoma de Barcelona",
+    "country": "Spain",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT79/IELTS6.5/ DELE B2",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 444,
+    "name": "Universitat Autònoma de Barcelona",
+    "country": "Spain",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 445,
+    "name": "Universitat Autònoma de Barcelona",
+    "country": "Spain",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 446,
+    "name": "Universidad de Alcalá",
+    "country": "Spain",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 447,
+    "name": "Universidad de Alcalá",
+    "country": "Spain",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 448,
+    "name": "Universitat Politècnica de Catalunya",
+    "country": "Spain",
+    "quota_raw": "8 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 449,
+    "name": "Auckland University of Technology",
+    "country": "New Zealand",
+    "quota_raw": "UG: 1 sem. slots PG: 1 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA3.3/4.3",
+    "lang_raw": "UG: iBT80 (R19/L19/S20/W22/ IELTS6 (all bands 5.5+) PG: iBT90 (R20/L20/S20/W24) /IELTS6.5 (all bands 6+)",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 450,
+    "name": "Auckland University of Technology",
+    "country": "New Zealand",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 451,
+    "name": "Auckland University of Technology",
+    "country": "New Zealand",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 452,
+    "name": "The University of French Polynesia (UPF)",
+    "country": "French Polynesia",
+    "quota_raw": "2/semester",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "recommended English B1/B2",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 453,
+    "name": "The University of French Polynesia (UPF)",
+    "country": "French Polynesia",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 454,
+    "name": "The University of French Polynesia (UPF)",
+    "country": "French Polynesia",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 455,
+    "name": "Polytechnique Montréal",
+    "country": "Canada",
+    "quota_raw": "spring: 5 students (Software and Computing Cluster) ",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "GPA2.7/4.3",
+    "lang_raw": "Recommended levels: IELTS (academic), 6.5 (no portion< 5.5) / iBT: 90 (W>20).",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 456,
+    "name": "Polytechnique Montréal",
+    "country": "Canada",
+    "quota_raw": "F: 5 students (International Thematic Clusters in Engineering)",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 457,
+    "name": "Polytechnique Montréal",
+    "country": "Canada",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 458,
+    "name": "Polytechnique Montréal",
+    "country": "Canada",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 459,
+    "name": "Polytechnique Montréal",
+    "country": "Canada",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 460,
+    "name": "Université du Québec à Montréal (UQAM)",
+    "country": "Canada",
+    "quota_raw": "1 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT80/IELTS6 /TOEIC750",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 461,
+    "name": "Université du Québec à Montréal (UQAM)",
+    "country": "Canada",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 462,
+    "name": "Université du Québec à Montréal (UQAM)",
+    "country": "Canada",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 463,
+    "name": "Université du Québec à Montréal (UQAM)",
+    "country": "Canada",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 464,
+    "name": "École de Technologie Supérieure (ETS)",
+    "country": "Canada",
+    "quota_raw": "2 students\t",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "Coursework: French required Research: French and/or English proficiency is subject to ETS professor's approval",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 465,
+    "name": "University of Regina",
+    "country": "Canada",
+    "quota_raw": "3 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "TOEFL: Internet based 83 (with no band less than 20) IELTS: Overall Band score of 6.5 (with no band less than 6.0)",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 466,
+    "name": "University of Regina",
+    "country": "Canada",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 467,
+    "name": "University of Regina",
+    "country": "Canada",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 468,
+    "name": "University of New Brunswick",
+    "country": "Canada",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "PG :  iBT94 W25 IELTS7",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 469,
+    "name": "University of New Brunswick",
+    "country": "Canada",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 470,
+    "name": "The State University of New York at Stony Brook",
+    "country": "USA",
+    "quota_raw": "1 sem. slot",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "IELTS6.5/iBT80",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 471,
+    "name": "The State University of New York at Stony Brook",
+    "country": "USA",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 472,
+    "name": "The State University of New York at Stony Brook",
+    "country": "USA",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 473,
+    "name": "University of Colorado Boulder",
+    "country": "USA",
+    "quota_raw": "2 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA2.7/4.3",
+    "lang_raw": "IELTS6.5/iBT75 Engineering iBT83/IELTS6.5",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 474,
+    "name": "University of Colorado Boulder",
+    "country": "USA",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 475,
+    "name": "University of Colorado Boulder",
+    "country": "USA",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 476,
+    "name": "Juniata College",
+    "country": "USA",
+    "quota_raw": "4 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "iBT80 (no section below 17) / IELTS6.5 (no section below 5.5)",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 477,
+    "name": "Juniata College",
+    "country": "USA",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 0,
+    "lng": 0
+  },
+  {
+    "id": 478,
+    "name": "Univeristy of Illinois at Urbana-Champaign",
+    "country": "USA",
+    "quota_raw": "25 sem. slots",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG"
+    ],
+    "gpa_raw": "GPA3.0/4.3",
+    "lang_raw": "iBT100/IELTS6.5",
+    "lat": 40.102,
+    "lng": -88.2272
+  },
+  {
+    "id": 479,
+    "name": "Univeristy of Illinois at Urbana-Champaign",
+    "country": "USA",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 40.102,
+    "lng": -88.2272
+  },
+  {
+    "id": 480,
+    "name": "Univeristy of Illinois at Urbana-Champaign",
+    "country": "USA",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 40.102,
+    "lng": -88.2272
+  },
+  {
+    "id": 481,
+    "name": "Univeristy of Illinois at Urbana-Champaign",
+    "country": "USA",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 40.102,
+    "lng": -88.2272
+  },
+  {
+    "id": 482,
+    "name": "Univeristy of Illinois at Urbana-Champaign",
+    "country": "USA",
+    "quota_raw": "nan",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "Both"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "nan",
+    "lat": 40.102,
+    "lng": -88.2272
+  },
+  {
+    "id": 483,
+    "name": "Metropolitan Autonomous University",
+    "country": "Mexico",
+    "quota_raw": "2 students",
+    "is_spring": true,
+    "is_fall": true,
+    "levels": [
+      "UG",
+      "PG"
+    ],
+    "gpa_raw": "nan",
+    "lang_raw": "Spanish B2",
+    "lat": 0,
+    "lng": 0
+  }
+]
