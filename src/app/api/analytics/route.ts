@@ -3,6 +3,7 @@ import fsSync from 'fs';
 import path from 'path';
 import { NextResponse } from 'next/server';
 import * as XLSX from 'xlsx';
+import { isServerlessDeploy } from '@/lib/data-path';
 import { isValidEventType, isValidSchoolId, sanitizeText } from '@/lib/security';
 
 export const runtime = 'nodejs';
@@ -16,7 +17,7 @@ type AnalyticsBody = {
   extra?: string;
 };
 
-const analyticsDir = path.resolve(process.cwd(), '../../data/analytics');
+const analyticsDir = path.resolve(process.cwd(), 'data/analytics');
 const analyticsFile = path.join(analyticsDir, 'nycu_analytics.xlsx');
 
 const headers = ['時間', '事件類型', '區域', '國家', '學校ID', '學校名稱', '備註'];
@@ -43,6 +44,10 @@ export async function POST(request: Request) {
     const body = (await request.json()) as AnalyticsBody;
     if (!isValidEventType(body?.event_type) || !isValidSchoolId(body?.school_id)) {
       return NextResponse.json({ ok: false, error: 'invalid payload' }, { status: 400 });
+    }
+
+    if (isServerlessDeploy()) {
+      return NextResponse.json({ ok: true, skipped: true });
     }
 
     const safeBody: AnalyticsBody = {

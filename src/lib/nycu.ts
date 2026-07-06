@@ -1,9 +1,6 @@
 import fs from 'fs/promises';
 import fsSync from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
+import { resolveDataFile } from '@/lib/data-path';
 
 export type School = {
   id: number;
@@ -33,7 +30,7 @@ export type School = {
 };
 
 export async function getSchoolData(): Promise<School[]> {
-  const filePath = path.resolve(__dirname, '../../../../data/nycu_191_clean.json');
+  const filePath = resolveDataFile('nycu_191_clean.json');
   if (!fsSync.existsSync(filePath)) {
     throw new Error(`School data file not found: ${filePath}`);
   }

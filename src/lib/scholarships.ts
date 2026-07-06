@@ -1,9 +1,6 @@
 import fs from 'fs/promises';
 import fsSync from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
+import { resolveDataFile } from '@/lib/data-path';
 
 export type ScholarshipDoc = {
   fileurl: string;
@@ -32,7 +29,7 @@ export type ScholarshipData = {
 };
 
 export async function getScholarships(): Promise<ScholarshipData> {
-  const filePath = path.resolve(__dirname, '../../../../data/scholarships.json');
+  const filePath = resolveDataFile('scholarships.json');
   if (!fsSync.existsSync(filePath)) {
     return { synced_at: '', source: '', items: [] };
   }

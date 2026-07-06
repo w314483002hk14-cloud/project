@@ -1,16 +1,22 @@
 import fs from 'fs/promises';
 import fsSync from 'fs';
-import path from 'path';
 import { NextResponse } from 'next/server';
+import { getScholarships } from '@/lib/scholarships';
+import { isServerlessDeploy, resolveDataFile } from '@/lib/data-path';
 
 export const runtime = 'nodejs';
 
 const OIA_JSON_URL =
   'https://oia.nycu.edu.tw/oia/ch/app/openData/data/list?module=nycu0007&mserno=0&type=json&id=716';
-const outputPath = path.resolve(process.cwd(), '../../data/scholarships.json');
 
 export async function GET() {
   try {
+    if (isServerlessDeploy()) {
+      const data = await getScholarships();
+      return NextResponse.json(data);
+    }
+
+    const outputPath = resolveDataFile('scholarships.json');
     const shouldSync =
       !fsSync.existsSync(outputPath) ||
       Date.now() - fsSync.statSync(outputPath).mtimeMs > 6 * 60 * 60 * 1000;
@@ -28,7 +34,8 @@ export async function GET() {
     const raw = await fs.readFile(outputPath, 'utf8');
     return NextResponse.json(JSON.parse(raw));
   } catch (error) {
-    return NextResponse.json({ error: String(error), items: [] }, { status: 500 });
+    const fallback = await getScholarships().catch(() => ({ synced_at: '', source: '', items: [] }));
+    return NextResponse.json({ ...fallback, error: String(error) }, { status: 500 });
   }
 }
 
