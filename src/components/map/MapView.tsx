@@ -5,9 +5,9 @@ import type { School } from '@/lib/nycu';
 import type { QsSchoolRanking } from '@/lib/qs';
 import { trackSchoolView } from '@/lib/analytics';
 import { getRegionByLatLng } from '@/lib/regions';
-import { SchoolMetaBadges } from '@/components/SchoolBadges';
+import { SchoolMetaBadges } from '@/components/ui/SchoolBadges';
 import { formatQsRankingDetail } from '@/lib/qs-display';
-import GlobeComponent from '@/components/Globe';
+import GlobeComponent from '@/components/map/Globe';
 
 const yearLabels = {
   all: '不限年級',

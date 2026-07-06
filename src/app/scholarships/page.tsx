@@ -1,5 +1,5 @@
 import { getScholarships } from '@/lib/scholarships';
-import ScholarshipsView from '@/components/ScholarshipsView';
+import ScholarshipsView from '@/components/scholarships/ScholarshipsView';
 
 export default async function ScholarshipsPage() {
   const data = await getScholarships();

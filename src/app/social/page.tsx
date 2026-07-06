@@ -1,6 +1,6 @@
 import { Suspense } from 'react';
 import { getSchoolData } from '@/lib/nycu';
-import SocialView from '@/components/SocialView';
+import SocialView from '@/components/social/SocialView';
 
 export default async function SocialPage() {
   const schools = await getSchoolData();

@@ -1,6 +1,6 @@
 ﻿import { getSchoolData } from '@/lib/nycu';
 import { getQsRankings } from '@/lib/qs-data';
-import SchoolBrowser from '@/components/SchoolBrowser';
+import SchoolBrowser from '@/components/school-browser/SchoolBrowser';
 
 export default async function SchoolBrowserPage() {
   const [schools, qsData] = await Promise.all([getSchoolData(), getQsRankings()]);

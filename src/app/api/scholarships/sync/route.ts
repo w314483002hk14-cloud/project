@@ -2,7 +2,8 @@ import fs from 'fs/promises';
 import fsSync from 'fs';
 import { NextResponse } from 'next/server';
 import { getScholarships } from '@/lib/scholarships';
-import { isServerlessDeploy, resolveDataFile } from '@/lib/data-path';
+import { resolveDataFile } from '@/lib/data-path';
+import { isServerlessDeploy } from '@/lib/deploy';
 
 export const runtime = 'nodejs';
 

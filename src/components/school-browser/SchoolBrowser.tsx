@@ -6,7 +6,7 @@ import type { School } from '@/lib/nycu';
 import type { QsSchoolRanking } from '@/lib/qs';
 import { trackFavorite } from '@/lib/analytics';
 import { getRegionByCountry, regionCountries } from '@/lib/regions';
-import { SchoolMetaBadges } from '@/components/SchoolBadges';
+import { SchoolMetaBadges } from '@/components/ui/SchoolBadges';
 
 function hasCjk(text: string) {
   return /[\u3400-\u9fff]/.test(text);

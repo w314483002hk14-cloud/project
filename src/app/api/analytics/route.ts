@@ -3,7 +3,7 @@ import fsSync from 'fs';
 import path from 'path';
 import { NextResponse } from 'next/server';
 import * as XLSX from 'xlsx';
-import { isServerlessDeploy } from '@/lib/data-path';
+import { isServerlessDeploy } from '@/lib/deploy';
 import { isValidEventType, isValidSchoolId, sanitizeText } from '@/lib/security';
 
 export const runtime = 'nodejs';
