@@ -21,6 +21,26 @@ const yearLabels = {
 
 type YearFilter = keyof typeof yearLabels;
 
+const USER_GPA_SCALE = 4.3;
+
+function parseFilterNumber(value: string) {
+  const trimmed = value.trim();
+  if (!trimmed) return null;
+  const num = Number(trimmed);
+  return Number.isNaN(num) ? null : num;
+}
+
+function meetsGpaRequirement(school: School, userGpa: number) {
+  if (school.gpa_min === null) return true;
+  const schoolScale = school.gpa_scale ?? USER_GPA_SCALE;
+  return userGpa / USER_GPA_SCALE >= school.gpa_min / schoolScale;
+}
+
+function meetsScoreRequirement(schoolMin: number | null, userScore: number) {
+  if (schoolMin === null) return true;
+  return schoolMin <= userScore;
+}
+
 function hasCjk(text: string) {
   return /[\u3400-\u9fff]/.test(text);
 }
@@ -234,14 +254,14 @@ export default function MapView({
 }) {
   const [termFilter, setTermFilter] = useState<'all' | 'fall' | 'spring'>('all');
   const [yearFilter, setYearFilter] = useState<YearFilter>('all');
-  const [gpaFilter, setGpaFilter] = useState(0);
+  const [gpaFilter, setGpaFilter] = useState('');
   const [schoolQuery, setSchoolQuery] = useState('');
   const [academyFilter, setAcademyFilter] = useState('不限學院');
   const [countryFilter, setCountryFilter] = useState('不限國家');
   const [languageFilter] = useState('');
-  const [toeflFilter, setToeflFilter] = useState(0);
-  const [ieltsFilter, setIeltsFilter] = useState(0);
-  const [toeicFilter, setToeicFilter] = useState(0);
+  const [toeflFilter, setToeflFilter] = useState('');
+  const [ieltsFilter, setIeltsFilter] = useState('');
+  const [toeicFilter, setToeicFilter] = useState('');
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const [showGuide, setShowGuide] = useState(true);
   const [showFilterPanel, setShowFilterPanel] = useState(false);
@@ -251,13 +271,13 @@ export default function MapView({
   function resetFilters() {
     setTermFilter('all');
     setYearFilter('all');
-    setGpaFilter(0);
+    setGpaFilter('');
     setSchoolQuery('');
     setAcademyFilter('不限學院');
     setCountryFilter('不限國家');
-    setToeflFilter(0);
-    setIeltsFilter(0);
-    setToeicFilter(0);
+    setToeflFilter('');
+    setIeltsFilter('');
+    setToeicFilter('');
   }
 
   const academyOptions = [
@@ -285,6 +305,11 @@ export default function MapView({
     return ['不限國家', ...Array.from(set).sort((a, b) => a.localeCompare(b, 'zh-Hant'))];
   }, [schools]);
 
+  const parsedGpa = parseFilterNumber(gpaFilter);
+  const parsedToefl = parseFilterNumber(toeflFilter);
+  const parsedIelts = parseFilterNumber(ieltsFilter);
+  const parsedToeic = parseFilterNumber(toeicFilter);
+
   const filtered = useMemo(
     () =>
       schools
@@ -296,10 +321,10 @@ export default function MapView({
           if (termFilter === 'fall' && !school.term_fall) return false;
           if (termFilter === 'spring' && !school.term_spring) return false;
           if (!matchesYear(school, yearFilter)) return false;
-          if (gpaFilter > 0 && school.gpa_min !== null && school.gpa_min > gpaFilter) return false;
-          if (toeflFilter > 0 && (school.ibt_min === null || school.ibt_min > toeflFilter)) return false;
-          if (ieltsFilter > 0 && (school.ielts_min === null || school.ielts_min > ieltsFilter)) return false;
-          if (toeicFilter > 0 && (school.toeic_min === null || school.toeic_min > toeicFilter)) return false;
+          if (parsedGpa !== null && !meetsGpaRequirement(school, parsedGpa)) return false;
+          if (parsedToefl !== null && !meetsScoreRequirement(school.ibt_min, parsedToefl)) return false;
+          if (parsedIelts !== null && !meetsScoreRequirement(school.ielts_min, parsedIelts)) return false;
+          if (parsedToeic !== null && !meetsScoreRequirement(school.toeic_min, parsedToeic)) return false;
           if (countryFilter !== '不限國家' && school.country !== countryFilter) return false;
           if (schoolQuery && !query.includes(schoolQuery.trim().toLowerCase())) return false;
           if (
@@ -315,7 +340,7 @@ export default function MapView({
           return true;
         })
         .sort((a, b) => a.name.localeCompare(b.name, 'zh-Hant')),
-    [schools, termFilter, yearFilter, gpaFilter, toeflFilter, ieltsFilter, toeicFilter, countryFilter, schoolQuery, academyFilter, languageFilter],
+    [schools, termFilter, yearFilter, parsedGpa, parsedToefl, parsedIelts, parsedToeic, countryFilter, schoolQuery, academyFilter, languageFilter],
   );
 
   const selectedSchool = filtered.find((school) => school.id === selectedId) ?? null;
@@ -421,12 +446,10 @@ export default function MapView({
                     <div>
                       <label className="text-sm font-medium text-slate-300">GPA</label>
                       <input
-                        type="number"
-                        min="0"
-                        max="4.3"
-                        step="0.1"
+                        type="text"
+                        inputMode="decimal"
                         value={gpaFilter}
-                        onChange={(event) => setGpaFilter(Number(event.target.value))}
+                        onChange={(event) => setGpaFilter(event.target.value)}
                         placeholder="例如：3.8"
                         className="mt-3 w-full rounded-2xl border border-slate-700 bg-slate-950/90 px-4 py-3 text-sm text-slate-100 outline-none transition focus:border-cyan-400/60 focus:ring-2 focus:ring-cyan-400/20"
                       />
@@ -482,11 +505,10 @@ export default function MapView({
                       <div>
                         <label className="text-sm font-medium text-slate-300">TOEFL iBT</label>
                         <input
-                          type="number"
-                          min="0"
-                          step="1"
+                          type="text"
+                          inputMode="numeric"
                           value={toeflFilter}
-                          onChange={(event) => setToeflFilter(Number(event.target.value))}
+                          onChange={(event) => setToeflFilter(event.target.value)}
                           placeholder="例如：90"
                           className="mt-3 w-full rounded-2xl border border-slate-700 bg-slate-950/90 px-4 py-3 text-sm text-slate-100 outline-none transition focus:border-cyan-400/60 focus:ring-2 focus:ring-cyan-400/20"
                         />
@@ -494,11 +516,10 @@ export default function MapView({
                       <div>
                         <label className="text-sm font-medium text-slate-300">IELTS</label>
                         <input
-                          type="number"
-                          min="0"
-                          step="0.5"
+                          type="text"
+                          inputMode="decimal"
                           value={ieltsFilter}
-                          onChange={(event) => setIeltsFilter(Number(event.target.value))}
+                          onChange={(event) => setIeltsFilter(event.target.value)}
                           placeholder="例如：6.5"
                           className="mt-3 w-full rounded-2xl border border-slate-700 bg-slate-950/90 px-4 py-3 text-sm text-slate-100 outline-none transition focus:border-cyan-400/60 focus:ring-2 focus:ring-cyan-400/20"
                         />
@@ -508,11 +529,10 @@ export default function MapView({
                     <div>
                       <label className="text-sm font-medium text-slate-300">TOEIC</label>
                       <input
-                        type="number"
-                        min="0"
-                        step="5"
+                        type="text"
+                        inputMode="numeric"
                         value={toeicFilter}
-                        onChange={(event) => setToeicFilter(Number(event.target.value))}
+                        onChange={(event) => setToeicFilter(event.target.value)}
                         placeholder="例如：750"
                         className="mt-3 w-full rounded-2xl border border-slate-700 bg-slate-950/90 px-4 py-3 text-sm text-slate-100 outline-none transition focus:border-cyan-400/60 focus:ring-2 focus:ring-cyan-400/20"
                       />
